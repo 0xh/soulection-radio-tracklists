@@ -1,0 +1,346 @@
+{
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "Jael ",
+      "title": "IJWLU",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Sango ",
+      "title": "One More Thing",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Tory Lanez ",
+      "title": "N.A.M.E",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "Joseph L'ÉTRANGER ",
+      "title": "Coral cave",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Padillion ",
+      "title": "Reveal",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Joseph L'Étranger ",
+      "title": "playboy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Saba ",
+      "title": "Bad Nature",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Mongo Santamaria ",
+      "title": "O Mi Shango",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Mongo Santamaría ",
+      "title": "Timbales Y Bongo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Sango ",
+      "title": "Mudança (Ft. Jarreau Vandal)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Kay Franklin ",
+      "title": "See How It Goes",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Pastor T.L. Barrett ",
+      "title": "Father Stretch My Hands",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Junie Morrison ",
+      "title": "Suzie Thundertussy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Arthur Russell ",
+      "title": "Answers Me",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Roberta Flack ",
+      "title": "Killing Me Softly With His Song",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Fugees ",
+      "title": "Killing Me Softly",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Barbara Mason ",
+      "title": "Yes, I'm Ready",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "The Diplomats ",
+      "title": "I'm Ready (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "The Originals ",
+      "title": "Baby, I’m For Real (Kutmah Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Major Harris ",
+      "title": "I Got Over Love",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "The Diplomats ",
+      "title": "I Really Mean It (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Daryl Coley ",
+      "title": "In the Arms of Jesus",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "SPZRKT & Sango ",
+      "title": "JMK",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Myron & E ",
+      "title": "They Don't Know",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Erykah Badu ",
+      "title": "Drama",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "J Dilla ",
+      "title": "She Said (Remix) (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "Sango ",
+      "title": "Let This (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "MAC MILLER ",
+      "title": "Rush Hour",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Faith Evans ",
+      "title": "You Used to Love Me (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "Tory Lanez ",
+      "title": "Juvenile Freestyle (Prod. By Tory Lanez x Play Picasso)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "Slakah the Beatchild ",
+      "title": "Something Forever",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "R.O.M ",
+      "title": "girlfriend",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "Jamie Woon ",
+      "title": "Sharpness (KAYTRANADA EDIT)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Marcos Valle ",
+      "title": "Estrelar",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 35,
+      "artist": "Clipse ",
+      "title": "Grindin (instrumental)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 36,
+      "artist": "busta rhymes ",
+      "title": "Arab Money (VANDALIZED EDIT)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 37,
+      "artist": "Goapele ",
+      "title": "Milk and honey (Aybee’s gorilla in trunk flip)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 38,
+      "artist": "LTGL ",
+      "title": "Untitled",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 39,
+      "artist": "Cam'Ron ",
+      "title": "Oh Boy (Ivy Lab's 2020 Bootleg)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 40,
+      "artist": "T-pain",
+      "title": "Can’t Believe it (VANDALIZED EDIT)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 41,
+      "artist": "Work ",
+      "title": "(VANDALIZED COVER)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 42,
+      "artist": "Russ ",
+      "title": "Willy Wonka (Feat. Paulina & Jafé)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 43,
+      "artist": "Q-Tip x Young Thug ",
+      "title": "All About The Money x Breathe & Stop (Sango Edit)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 44,
+      "artist": "Hudson East ",
+      "title": "Got me (VANDALIZED EDIT)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 45,
+      "artist": "Pharrell ",
+      "title": "Frontin (JAEL Remix)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 46,
+      "artist": "Pharrell ",
+      "title": "Frontin (Zikomo Remix)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 47,
+      "artist": "Dexter Braxton ",
+      "title": "Put yo hands",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 48,
+      "artist": "PYRMDPLAZA x Gravez vs rihanna ",
+      "title": "bbhmm (jael dj edit)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 49,
+      "artist": "Je suis sorry ",
+      "title": "(VANDALIZED EDIT)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 50,
+      "artist": "Deffie X No Tv No Radio ",
+      "title": "Curtains",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 51,
+      "artist": "Sam Gellaitry ",
+      "title": "Payme",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 52,
+      "artist": "Anderson Paak ",
+      "title": "Suede",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 53,
+      "artist": "Pyrmdplaza ",
+      "title": "Housebump for joe kay",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 54,
+      "artist": "Harddrive ",
+      "title": "Deep inside (VANDALIZED EDIT)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 55,
+      "artist": "Trill N*gga Liquor ",
+      "title": "(VANDALIZED EDIT)",
+      "session": "Jarreau Vandal’s Set"
+    },
+    {
+      "number": 56,
+      "artist": "OriJanus ",
+      "title": "Bonita",
+      "session": "Jarreau Vandal’s Set"
+    }
+  ],
+  "sessions": [
+    "Joe Kay’s Session",
+    "Jarreau Vandal’s Set"
+  ],
+  "number": 248,
+  "date": "2016-02-27"
+}

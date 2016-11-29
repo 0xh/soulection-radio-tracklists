@@ -1,0 +1,467 @@
+{
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "AbJo ",
+      "title": "Largo Rubato (Rest Well Mark)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "D.W_ ",
+      "title": "Brook",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "HXNS ",
+      "title": "5k double feature",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "Dej Loaf ",
+      "title": "Try Me (Midas Hutch Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Solas ",
+      "title": "The Made on the Shore",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Timbaland & Magoo ",
+      "title": "All Y'all ft. Tweet (instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "ESTA ",
+      "title": "Untitled",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Drake ",
+      "title": "On A Wave ft. Tinashe",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Travis Scott ",
+      "title": "Antidote",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Zikomo & James Anderson",
+      "title": "That Feeling",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Gregory Isaacs ",
+      "title": "Rock On",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Braeden Bailey ",
+      "title": "Fingerwork",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Swindail ",
+      "title": "Gellaitry Groove",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Kource ",
+      "title": "From Love To Hate",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Wantigga x Jarreau Vandal ",
+      "title": "So Flute",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Big Sean ",
+      "title": "Blessings ft. Drake & Kanye West",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Lakim ",
+      "title": "Untitled",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Elhae ",
+      "title": "Take Care ft. SPZRKT (Family Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Aaliyah ",
+      "title": "Heartbroken",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Jay Prince ",
+      "title": "Polaroids",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Dry & Heavy ",
+      "title": "Love Explosion",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Lakim ",
+      "title": "analog sequence",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Gravez ",
+      "title": "Where We From (Lege Kale Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "LAKIM ",
+      "title": "Untitled",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Timbaland ",
+      "title": "Keep It Real ft. Ginuwine",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Playa ",
+      "title": "Cheers 2 U (instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "MadBliss ",
+      "title": "blatant",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Mr. Carmack ",
+      "title": "goldlink mix 2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "DJ Cable ",
+      "title": "Justified",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "KAYTRANADA ",
+      "title": "Drive Me Crazy (featuring Vic Mensa)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "Common ",
+      "title": "Be [Instrumental] (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Reflection Eternal ",
+      "title": "Just Begun ft. Jay Electronica, J. Cole and Mos Def",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "88 Keys ",
+      "title": "Viagra ft. Kanye West (Joe Kay’s Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Nas ",
+      "title": "Still Dreaming ft. Kanye West (Joe Kay’s Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Royce Da 5'9\" ",
+      "title": "Heartbeat [Instrumental] (Joe Kay’s Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "Sam Gellaitry ",
+      "title": "us",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "YoungBloodz & Big Boi ",
+      "title": "85 (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "Tweet ",
+      "title": "Turn Da Lights Off feat. Missy Elliot",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "Raphael Saadiq ",
+      "title": "Still Ray",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "Mura Masa ",
+      "title": "i'll be alright (tonight)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "El Debarge ",
+      "title": "Stay With Me",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "Jarreau Vandal ",
+      "title": "filling pieces",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "Kaytranada & Mr. Carmack ",
+      "title": "I Cherish Youse (Joe Kay’s Slowed Edit)",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 44,
+      "artist": "Skepta x Bassbear!! x Swisha Sweet ",
+      "title": "Take Nasty",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 45,
+      "artist": "Madbliss ",
+      "title": "Crazh",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 46,
+      "artist": "Skymark ",
+      "title": "Special E.D",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 47,
+      "artist": "Kaelin Ellis ",
+      "title": "Another Beat",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 48,
+      "artist": "Manitee ",
+      "title": "Snowblind",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 49,
+      "artist": "Halpe ",
+      "title": "Halpe X Esher",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 50,
+      "artist": "IAMNOBODI ",
+      "title": "Turbulence",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 51,
+      "artist": "DEFFIE + R.O.M ",
+      "title": "Grandmaster",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 52,
+      "artist": "Common ",
+      "title": "Come Close (Instrumental)",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 53,
+      "artist": "_al. ",
+      "title": "new old",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 54,
+      "artist": "Jhene Aiko ",
+      "title": "From Time (Atu & Sango Edit)",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 55,
+      "artist": "KR ",
+      "title": "Dearly Beloved (Live @ Red Bull Studio LA)",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 56,
+      "artist": "KR ",
+      "title": "Play My Shit (Live @ Red Bull Studio LA)",
+      "session": "Interview w/ KR"
+    },
+    {
+      "number": 57,
+      "artist": "J-Louis x Pyrmdplaza ",
+      "title": "Untitled (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 58,
+      "artist": "Drake ",
+      "title": "Jungle (KidGhost Flip)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 59,
+      "artist": "Ginuwine x Drake ",
+      "title": "Anxious for the Legend (Sango Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 60,
+      "artist": "RASCAL ",
+      "title": "Deep",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 61,
+      "artist": "Swindail ",
+      "title": "zen zen hit the ten ten",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 62,
+      "artist": "PYRMDPLAZA ",
+      "title": "House Bump for Joe Kay (Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 63,
+      "artist": "The Weeknd ",
+      "title": "The Hills",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 64,
+      "artist": "JETS - U-N",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 65,
+      "artist": "The Internet ",
+      "title": "Special Affair",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 66,
+      "artist": "Full Crate ",
+      "title": "Falling Off (Odile)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 67,
+      "artist": "Denzel Curry ",
+      "title": "Threatz (Ekali & Gravez Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 68,
+      "artist": "JETS ",
+      "title": "Pink Beat",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 69,
+      "artist": "Singularis ",
+      "title": "Wonderful One",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 70,
+      "artist": "Kehlani ",
+      "title": "Down For You (Gravez & Nehzuil Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 71,
+      "artist": "Mura Masa ",
+      "title": "You Don't Know My Name",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 72,
+      "artist": "Talib Kweli/Mos Def ",
+      "title": "Thieves In The Night",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 73,
+      "artist": "De La Soul ",
+      "title": "Stakes Is High (Jay Dee Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 74,
+      "artist": "_al. ",
+      "title": "yeah yeah",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 75,
+      "artist": "Jneiro Jarel ",
+      "title": "Lock Down",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 76,
+      "artist": "La Verdolaga ",
+      "title": "Totó la momposina y Sus Tambores",
+      "session": "Joe Kay’s Session"
+    }
+  ],
+  "sessions": [
+    "Joe Kay’s Session",
+    "Interview w/ KR",
+    "Joe Kay’s Session"
+  ],
+  "number": null,
+  "date": null
+}

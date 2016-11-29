@@ -1,0 +1,455 @@
+{
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "Jordan Rakei - D'angelo ",
+      "title": "Devils Pie ft. James Blake",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 2,
+      "artist": "Jordan Rakei - Jordan Rakei ",
+      "title": "Mind Control (Live Jam)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 3,
+      "artist": "Lauren Faith ",
+      "title": "Without You (E.Doza Edition)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 4,
+      "artist": "Erdbeerschnitzel ",
+      "title": "With Level Hopes",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 5,
+      "artist": "Mndsgn - Camelblues (KA",
+      "title": null,
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 6,
+      "artist": "Zo! ",
+      "title": "We Are On the Move (feat. Eric Roberson)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 7,
+      "artist": "Makam - You Might Lose It ",
+      "title": "Original Mix",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 8,
+      "artist": "Husky ",
+      "title": "Work",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 9,
+      "artist": "The Prodigy ",
+      "title": "No Good (sam gellaitry remix)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 10,
+      "artist": "Jo_Def ",
+      "title": "The One",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 11,
+      "artist": null,
+      "title": null,
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 12,
+      "artist": "Jordan Rakei ",
+      "title": "Sandman (Jam)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 13,
+      "artist": "Erdbeerschnitzel ",
+      "title": "Yet Unfulfilled",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 14,
+      "artist": "Rare Logic ",
+      "title": "trey",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 15,
+      "artist": "Savon ",
+      "title": "Something For U",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 16,
+      "artist": "Deborah Cox ",
+      "title": "Its over now (Annie Starlight RMX)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 17,
+      "artist": "Usher ",
+      "title": "Seduction",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 18,
+      "artist": "Sleepin Giant ",
+      "title": "Six",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 19,
+      "artist": "Evil Needle ",
+      "title": "Mood Music",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 20,
+      "artist": "Sango ",
+      "title": "If You",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 21,
+      "artist": "Gravez ",
+      "title": "Seek",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 22,
+      "artist": null,
+      "title": null,
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 23,
+      "artist": "Sam Gellaitry ",
+      "title": "bruh",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 24,
+      "artist": "Gravez & Singularis ",
+      "title": "Honden",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 25,
+      "artist": "Braeden Bailey. ",
+      "title": "death, from above",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 26,
+      "artist": "Gravez ",
+      "title": "The Beginning",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 27,
+      "artist": "Stwo ",
+      "title": "Work (Gravez Remix)",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 28,
+      "artist": "Von D ft Phephe ",
+      "title": "You're The One (Fortune Remix)",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 29,
+      "artist": "Beyonce ",
+      "title": "Gravez remix",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 30,
+      "artist": "Gravez & Tek.lun ",
+      "title": "Elevate",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 31,
+      "artist": "Gravez",
+      "title": "All These Girls",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 32,
+      "artist": "Gravez ",
+      "title": "Trippin",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 33,
+      "artist": "Gravez ",
+      "title": "predator",
+      "session": "Gravez’ Set"
+    },
+    {
+      "number": 34,
+      "artist": "Slum Village ",
+      "title": "2u4u (Joe Kay’s Slowed & Diced Edit)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 35,
+      "artist": "Rainy Milo ",
+      "title": "Ricochet",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 36,
+      "artist": "Vic Mensa ",
+      "title": "Orange Soda",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 37,
+      "artist": "Chris Turner ",
+      "title": "Liquid Love",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 38,
+      "artist": "Chris P ",
+      "title": "say it again",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 39,
+      "artist": "Chris P ",
+      "title": "?",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 40,
+      "artist": "Domo Genesis ",
+      "title": "This is 15 Bars I May Be Wrong I Gotta See ft. Mac Miller",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 41,
+      "artist": "Mr. Carmack ",
+      "title": "ALL DAY x jerreau, and a fucking ripped sample from",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 42,
+      "artist": "Isaiah Rashad ",
+      "title": "Shot You Down (feat. Jay Rock & ScHoolboy Q)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 43,
+      "artist": "Outkast ",
+      "title": "So Fresh, So Clean",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 44,
+      "artist": "N.E.R.D ",
+      "title": "Run To The Sun",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 45,
+      "artist": "Dr. Dre ",
+      "title": "Xxplosive (Instrumental)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 46,
+      "artist": "Sango ",
+      "title": "Middle of Things, Beautiful Wife (Feat. SPZRKT)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 47,
+      "artist": "Chance The Rapper ",
+      "title": "Juke Juke",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 48,
+      "artist": "Immature ",
+      "title": "I Don't Mind (The Vibe Mix)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 49,
+      "artist": "Sango ",
+      "title": "Maluco",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 50,
+      "artist": "J-Lah - Schoolboy Q ft. BJ The Chicago Kid - Studio (J",
+      "title": null,
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 51,
+      "artist": "Drake ",
+      "title": "0 to 100 (Chopped & Screwed by Sir CRKS)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 52,
+      "artist": "Tom And Jerry ",
+      "title": "Maximum Booty Style (Ticklish Reboot)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 53,
+      "artist": "Lil Wayne ",
+      "title": "Believe Me ft. Drake (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 54,
+      "artist": "Chance The Rapper ",
+      "title": "Favorite Song (ft. Childish Gambino) (Prod. by Nate",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 55,
+      "artist": "Rich Boy ",
+      "title": "Throw Some D's (Gravez VIP)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 56,
+      "artist": "Sam Gellaitry ",
+      "title": "Untitled ft. Connor Pearson",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 57,
+      "artist": "Cam'Ron ",
+      "title": "Oh Boy [Ivy Lab's 20/20 Bootleg]",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 58,
+      "artist": "Sango ",
+      "title": "Papers",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 59,
+      "artist": "LAKIM - Danny Brown ",
+      "title": "LIE4 (LAKIM Remix)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 60,
+      "artist": "Rustie ",
+      "title": "Starttt",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 61,
+      "artist": "PYRMDPLAZA ",
+      "title": "Navi's Dance",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 62,
+      "artist": "Tek.Lun ",
+      "title": "Reafter",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 63,
+      "artist": "Trick Daddy ",
+      "title": "I'm a Thug",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 64,
+      "artist": "Juvenile ",
+      "title": "Slow Motion",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 65,
+      "artist": "Tweet ",
+      "title": "Turn Da Lights Off feat. Missy Elliot",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 66,
+      "artist": "G-Unit ",
+      "title": "Wanna Get To Know You (Instrumental)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 67,
+      "artist": "MosDef ",
+      "title": "The Panties (Instrumental)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 68,
+      "artist": "Talib Kweli & Hi-Tek ",
+      "title": "Just Begun (ft. Jay Electronica, J. Cole and Mos Def)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 69,
+      "artist": "AFTA-1 ",
+      "title": "Honey Dip",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 70,
+      "artist": "Sivey ",
+      "title": "Pillow Talk",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 71,
+      "artist": "Mikos Da Gawd x Mr. Carmack x starRo x Teeko ",
+      "title": "Catch Me (ft. JusMoni)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 72,
+      "artist": "Wiz Khalifa ",
+      "title": "Up (Instrumental)",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 73,
+      "artist": "Inkarv ",
+      "title": "needsvocalist",
+      "session": "Joe Kay’s Set"
+    },
+    {
+      "number": 74,
+      "artist": "Naus ",
+      "title": "Toxic Bitch (Inkarv RMX)",
+      "session": "Joe Kay’s Set"
+    }
+  ],
+  "sessions": [
+    "Joe Kay’s Set",
+    "Gravez’ Set",
+    "Joe Kay’s Set"
+  ],
+  "number": null,
+  "date": null
+}

@@ -1,0 +1,669 @@
+{
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "OUSKA ",
+      "title": "Bird",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Singularis ",
+      "title": "Imagination (15k gift)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Mo Vibez ",
+      "title": "Smoothies",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "Dennis Brown - Rub-A",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Bitty Mcclean ",
+      "title": "The Real Thing",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Scientist ",
+      "title": "Ghost Of Frankenstein",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Zikomo & James Anderson - Zikomo & James Anderson",
+      "title": "That Feeling",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Grover Washington, Jr ",
+      "title": "A Secret Place",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Rainy Milo ",
+      "title": "'Bout You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Leon Ware ",
+      "title": "Why I Came to California",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "AFTA-1 ",
+      "title": "4nia",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "AFTA-1 ",
+      "title": "Rain/Horas Largas",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Cheryl Lynn ",
+      "title": "Believe in Me",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "AFTA-1 ",
+      "title": "Believe",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Soho ",
+      "title": "Hot Music (Rolling With The 808)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Planet Giza ",
+      "title": "Angel",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Stro Elliot ",
+      "title": "Always Here For You (Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Erykah Badu ",
+      "title": "Medley: What’s Yo Phone Number / Telephone (Ghost of Screw Mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Carlos Nino & Miguel Atwood-Ferguson ",
+      "title": "Find A Way",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Marvin Gaye ",
+      "title": "Distant Lover",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Arthur Verocai ",
+      "title": "Na Boca do Sol",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "JAY-Z ",
+      "title": "Hard Knock Life",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Iman Omari ",
+      "title": "Feel Luv + + +",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Notorious B.I.G. ",
+      "title": "Skys The Limit (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "oriJanus ",
+      "title": "Mardi",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Mars Today ",
+      "title": "Let's Be Clear",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "Dorothy Ashby ",
+      "title": "Canto de Ossanha",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Phife ",
+      "title": "Bend Ova (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Mar ",
+      "title": "2u4u",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "Yusef Rumperfield ",
+      "title": "The Last Space Sunset",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "Sango ",
+      "title": "Mudança (Ft. Jarreau Vandal)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Snakehips ",
+      "title": "I'm Gone (feat. The Internet)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "Gato Barbieri ",
+      "title": "El Arriero",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Pharcyde ",
+      "title": "She Said (Remix) (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Jo_Def ",
+      "title": "Ms. You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "Pusha T ",
+      "title": "M. P. A. Ft Kanye West and A$AP Rocky (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "Waajeed ",
+      "title": "Serious",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "Afta-1 ",
+      "title": "La Samba3 (hidden track)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "Sa-Ra ",
+      "title": "Glorious",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "AbJo ",
+      "title": "Loop 544 (for Dilla)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "Ahmad Jamal ",
+      "title": "Ghetto Child",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "Janet Jackson ",
+      "title": "Why And You Wanna Go And Do That",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "Bryson Tiller ",
+      "title": "Don't (esta remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "esta ",
+      "title": "jbxe2 (unreleased)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "Vic Mensa ",
+      "title": "D.O.M.L. (esta remix ft Jarreau Vandal, Mr. Carmack, & Sam Gellaitry)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "Sivey ",
+      "title": "Mindlock",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 47,
+      "artist": "Yusef Rumperfield ",
+      "title": "I Like You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "Jean Tonique ",
+      "title": "Guest [feat Iris] (Young Franco Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 49,
+      "artist": null,
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "Seven Davis Jr ",
+      "title": "One",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "The Young Holt Trio ",
+      "title": "Strangers In The Night (intro)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 52,
+      "artist": "Tessellated & Verzache ",
+      "title": "Sweet Señorita",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 53,
+      "artist": "Mstk ",
+      "title": "Nvr",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 54,
+      "artist": "Stanzah! ",
+      "title": "Nite & Day",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 55,
+      "artist": "Gundam ",
+      "title": "Send 4 Drake",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 56,
+      "artist": "Wes Pendleton ",
+      "title": "Furthest From Half Crazy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 57,
+      "artist": "Chuck Upbeat ",
+      "title": "Dragons Tail",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 58,
+      "artist": "Roy Ayers ",
+      "title": "Searching [Osunlade Rmx].",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 59,
+      "artist": "Carl Carlton ",
+      "title": "She's A Bad Mama Jama",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 60,
+      "artist": "The Internet ",
+      "title": "Don’t Cha’",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 61,
+      "artist": "Key ",
+      "title": "Your Bed",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 62,
+      "artist": "Bipolar Sunshine ",
+      "title": "Deckchairs On The Moon (Harry Fraud Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 63,
+      "artist": null,
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 64,
+      "artist": "Kanye West ",
+      "title": "Blood On The Leaves",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 65,
+      "artist": "Cocaine 80s ",
+      "title": "Anywhere But Here",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 66,
+      "artist": "Dwele ",
+      "title": "4 Lips In The Dark",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 67,
+      "artist": "DMX ",
+      "title": "How's It Goin' Down",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 68,
+      "artist": "E-ternity ",
+      "title": "Sade Loaded",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 69,
+      "artist": "DJ Jazzy Jeff ",
+      "title": "Bossynova",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 70,
+      "artist": "J. Rawls ",
+      "title": "A Tribute To Dilla",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 71,
+      "artist": "Anderson. Paak ",
+      "title": "The City",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 72,
+      "artist": "Zhane ",
+      "title": "Sending My Love",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 73,
+      "artist": "Slumgullion ",
+      "title": "Favela",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 74,
+      "artist": "KÆMP ",
+      "title": "horizon",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 75,
+      "artist": "Iman Omari ",
+      "title": "L.A. Vibe",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 76,
+      "artist": "Full Crate ft. Papa Ghana ",
+      "title": "L'Afrique",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 77,
+      "artist": "Howie Lee ",
+      "title": "只要你⼀摸我就⼤叫",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 78,
+      "artist": "M.D.U.B.B. Elemeye ",
+      "title": "Feels Good",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 79,
+      "artist": "Sy Ari Da Kid ",
+      "title": "TLC",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 80,
+      "artist": "Mar ",
+      "title": "Single",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 81,
+      "artist": "Astronote ",
+      "title": "FTJFY",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 82,
+      "artist": "Brenk Sinatra - FTP Intro (ﺐﻌﺸﻠﻟ ",
+      "title": "Sampler for Syrian and Iraqui refugees)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 83,
+      "artist": "Crown City Rockers ",
+      "title": "D Minor Nine (feat. David Boyce)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 84,
+      "artist": "elk©o™ ",
+      "title": "INSIDE",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 85,
+      "artist": "Iman Omari ",
+      "title": "Tripping (Bonus Track)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 86,
+      "artist": "Tyrone Davis ",
+      "title": "In The Mood",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 87,
+      "artist": "Afta-1 ",
+      "title": "Candy Box (Interlude)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 88,
+      "artist": "Sango ",
+      "title": "I Still",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 89,
+      "artist": "JonOziSmith ",
+      "title": "[mohments]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 90,
+      "artist": "Raheem de Vaughn - BulletProof (Da",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 91,
+      "artist": "Flying Lotus ",
+      "title": "Never Catch Me (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 92,
+      "artist": "Knxwledge ",
+      "title": "Loavhorts",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 93,
+      "artist": "Erykah Badu ",
+      "title": "Hello",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 94,
+      "artist": "Amy Winehouse ",
+      "title": "Half Time",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 95,
+      "artist": "Black Milk ",
+      "title": "Broken Wax (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 96,
+      "artist": "Kaytradamus ",
+      "title": "55",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 97,
+      "artist": "Terrace Martin ",
+      "title": "Angel",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 98,
+      "artist": "Tom Misch ",
+      "title": "Dilla Love",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 99,
+      "artist": "88 Keys ",
+      "title": "Viagra (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 100,
+      "artist": "Shaman See - Slum Village ",
+      "title": "Tell Me (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 101,
+      "artist": "Bilal ",
+      "title": "Get Out Of My Hair",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 102,
+      "artist": "Bilal ",
+      "title": "Longing and Waiting",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 103,
+      "artist": "The Xtraordinairs ",
+      "title": "Look Towards The Sky",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 104,
+      "artist": "Soul II Soul ",
+      "title": "Back To Life (Acapella)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 105,
+      "artist": "HARCO PRONT ",
+      "title": "Trust",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 106,
+      "artist": "Esta ",
+      "title": "Put My Hands on You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 107,
+      "artist": "Mellow Man Ace ",
+      "title": "The Mush Feat. Doodlebug (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 108,
+      "artist": "OriJanus ",
+      "title": "salsa2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 109,
+      "artist": "Malo ",
+      "title": "Suavecito",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 110,
+      "artist": "Nuyorican Soul ",
+      "title": "You Can Do It (Baby)",
+      "session": "Joe Kay’s Session"
+    }
+  ],
+  "sessions": [
+    "Joe Kay’s Session"
+  ],
+  "number": 240,
+  "date": "2016-01-01"
+}

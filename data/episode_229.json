@@ -1,0 +1,220 @@
+{
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "Planet Giza ",
+      "title": "My Heart",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Sango ",
+      "title": "Agorinha",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Erykah Badu ",
+      "title": "HOTLINE BLING BUT U CAINT USE MY PHONE MIX",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "Porter Robinson ",
+      "title": "Sea Of Voices (Galimatias Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "KYLE ",
+      "title": "The Force",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "KOJACK ",
+      "title": "C11H15NO2SUAVE (BEAT)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Montell2099 ",
+      "title": "trying (swindail remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "IAMNOBODI ",
+      "title": "132 missy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Zo! ",
+      "title": "Holding You, Loving You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Bryson Tiller ",
+      "title": "Ten Nine Fourteen",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Bryson x PYRMDPLAZA ",
+      "title": "Rambo Lonely",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Da-P ",
+      "title": "Dead eye",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "TEK.LUN ",
+      "title": "FA&GS with swing",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "The Foreign Exchange ",
+      "title": "Asking For A Friend (Stro Elliot's Roller Rink Rework)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Dexter Brandon ",
+      "title": "Put Yo Hands",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Flamingosis",
+      "title": "daylight house",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "De Montuh ",
+      "title": "Last Night",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Kaytranada ",
+      "title": "go ahead",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "LAKIM ",
+      "title": "Nobody Else",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Tek.Lun ",
+      "title": "SHUT UP! feat. Varth (instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Lege Kale ",
+      "title": "Abberant",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Medasin ",
+      "title": "hey now",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Unknown ",
+      "title": "Coma Inst.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "yung boi ",
+      "title": "trap house jumping like jordan",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "NegiumBeats ",
+      "title": "Hide",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "PartyNextDoor ",
+      "title": "FWU (YUGI Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "ESTA. ",
+      "title": "SoLonely",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Slumped Boyz ",
+      "title": "Sofrito",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Ariel Pink ",
+      "title": "The List",
+      "session": "GoldLink’s Session + Interview"
+    },
+    {
+      "number": 30,
+      "artist": "Beanie Siegal ",
+      "title": "Roc The Mic",
+      "session": "GoldLink’s Session + Interview"
+    },
+    {
+      "number": 31,
+      "artist": "Mura Masa ",
+      "title": "Firefly",
+      "session": "GoldLink’s Session + Interview"
+    },
+    {
+      "number": 32,
+      "artist": "Drake ",
+      "title": "Hotline Bling",
+      "session": "GoldLink’s Session + Interview"
+    },
+    {
+      "number": 33,
+      "artist": "Cicero ",
+      "title": "Kids Wear Crows",
+      "session": "GoldLink’s Session + Interview"
+    },
+    {
+      "number": 34,
+      "artist": "Pharrell - Frontin ft. Jay",
+      "title": null,
+      "session": "GoldLink’s Session + Interview"
+    },
+    {
+      "number": 35,
+      "artist": "GoldLink ",
+      "title": "Spectrum (Live)",
+      "session": "GoldLink’s Session + Interview"
+    }
+  ],
+  "sessions": [
+    "Joe Kay’s Session",
+    "GoldLink’s Session + Interview"
+  ],
+  "number": 229,
+  "date": "2015-10-24"
+}

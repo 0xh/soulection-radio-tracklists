@@ -1,0 +1,555 @@
+{
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "Sam Gellaitry ",
+      "title": "Childhood",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Sam Gellaitry ",
+      "title": "To Earth And Back (Fede’s Slowed, Sliced N Screwed",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Michael Jackson ",
+      "title": "Rock With You • The Reflex Re√ision",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "AFTA-1 & Cazeaux Oslo ",
+      "title": "Marvelous Magical Jackobious Son (A",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Osunlade ",
+      "title": "What Gets You High?",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Osunlade ",
+      "title": "Dionne",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Daniël Leseman",
+      "title": "On The Fritz",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Sam Gellaitry ",
+      "title": "Interlood",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Kendrick Lamar ",
+      "title": "Alright",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Sivey ",
+      "title": "a little help",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "AbJo ",
+      "title": "Vibração Comigo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Twista ",
+      "title": "So Sexy (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Sivey - waterbed slow",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Tory Lanez & Snakehips ",
+      "title": "Dimalo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Sango ",
+      "title": "Papers",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "J-Lah ",
+      "title": "Ooo Baby Baby",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Bryson Tiller ",
+      "title": "Let 'em Know",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Bryson Tiller ",
+      "title": "Don't",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "LouieLastic ",
+      "title": "Close2u",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Omarion ",
+      "title": "Touch",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Sam Smith",
+      "title": "Leave Your Lover (Esta Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Chris Brown ",
+      "title": "Fine China (Kuma Edition)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Zo! ",
+      "title": "Nights Over Egypt feat. Carlitta Durand",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Lone ",
+      "title": "Airglow Fires",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Kartell - Turn Over (LA",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Odesza ",
+      "title": "All We Need (Haywyre Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "NVOY - 116 ",
+      "title": "Going On",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Synth-E-Sam ",
+      "title": "hmkm",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Esta ",
+      "title": "STAYTHENIGHT (esta remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "J Dilla - Dreamy (Brabe cover/Simba Re",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "?? ",
+      "title": "??",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "ROOTS ",
+      "title": "SILENT TREATMENT INTRO (Kaytranada Edition)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "Jill Scott ",
+      "title": "It's Love (Kaytranada Edition)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Drake ",
+      "title": "The Language (Rook Milo Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Soul ",
+      "title": "Only One",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "J-Louis ",
+      "title": "LA watts",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "Evans ",
+      "title": "muse.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "Evans ",
+      "title": "diamonds",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "Von D ft Phephe ",
+      "title": "You're The One (Fortune Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "Erykah Badu ",
+      "title": "On & On (LAKIM Rework)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "Amy Winehouse ",
+      "title": "stronger than me (Alby D bootleg)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "RAVEN ",
+      "title": "Is It Real",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "Sade ",
+      "title": "By Your Side (Neptunes remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "Budgie ",
+      "title": "Budgie's Groove",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "Adam Feeney & Chester Stone ",
+      "title": "0 to 100",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "Sango ",
+      "title": "Vai Vai",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 47,
+      "artist": "Lenny Williams ",
+      "title": "Cause I Love You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "Twista ",
+      "title": "Overnight Celebrity",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 49,
+      "artist": "Kanye West ",
+      "title": "Late (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "Cam'ron feat. Juelz Santana ",
+      "title": "Oh Boy (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Do or Die & Kanye West ",
+      "title": "Higher",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 52,
+      "artist": "Dwele ",
+      "title": "Swank (feat. Monica Blaire)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 53,
+      "artist": "Shyne Featuring Barrington Levy ",
+      "title": "Bonnie & Shyne",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 54,
+      "artist": "J Dilla ",
+      "title": "She Said (Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 55,
+      "artist": "N.E.R.D ",
+      "title": "Am I High",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 56,
+      "artist": "Ludacris ",
+      "title": "Diamond In the Back",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 57,
+      "artist": "Erykah Badu ",
+      "title": "Window Seat",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 58,
+      "artist": "Dr. Dre ",
+      "title": "The Message",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 59,
+      "artist": "Kanye West ",
+      "title": "Through the Wire",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 60,
+      "artist": "D'Angelo ",
+      "title": "Jonz In My Bonz",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 61,
+      "artist": "Jay-Z ",
+      "title": "Feelin' It",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 62,
+      "artist": "Erykah Badu ",
+      "title": "Bag Lady (Radio Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 63,
+      "artist": "G-Unit ",
+      "title": "Wanna Get to Know You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 64,
+      "artist": "Donell Jones ",
+      "title": "All About You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 65,
+      "artist": "J Dilla ",
+      "title": "Dime Piece",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 66,
+      "artist": "Jay-Z ",
+      "title": "Allure (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 67,
+      "artist": "J Dilla ",
+      "title": "Timeless (Intro) (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 68,
+      "artist": "Jadakiss ",
+      "title": "We Gonna Make It (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 69,
+      "artist": "Chris Brown ",
+      "title": "Yo (Excuse Me Miss)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 70,
+      "artist": "Jesse Boykins III ",
+      "title": "Nectar (Freestyle)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 71,
+      "artist": "Faith Evans ",
+      "title": "You Used To Love Me",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 72,
+      "artist": "Blu & Exile ",
+      "title": "In Remembrance",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 73,
+      "artist": "Lupe Fiasco ",
+      "title": "I Gotcha",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 74,
+      "artist": "Mayer Hawthorne ",
+      "title": "Just Ain't Gonna Work Out [Astronote Remix]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 75,
+      "artist": "Pharrell & The Yessirs ",
+      "title": "That Girl f. Snoop Dogg & Charlie Wilson",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 76,
+      "artist": "Justin Timberlake ",
+      "title": "Senorita",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 77,
+      "artist": "Mar ",
+      "title": "2u4u",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 78,
+      "artist": "ChromadaData ",
+      "title": "Closer[tlkbx]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 79,
+      "artist": "Sivey ",
+      "title": "Red 5",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 80,
+      "artist": "Breezy Lovejoy ",
+      "title": "P.Y.P (Acoustic Version)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 81,
+      "artist": "Breezy Lovejoy ",
+      "title": "p.y.p (carmack edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 82,
+      "artist": "Kanye West ",
+      "title": "Last Call",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 83,
+      "artist": "Jordan Rakei ",
+      "title": "Add the Bassline",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 84,
+      "artist": "PYRMDPLAZA ",
+      "title": "Dragon",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 85,
+      "artist": "oshi ",
+      "title": "mustard",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 86,
+      "artist": "Bryson Tiller ",
+      "title": "Sorry Not Sorry",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 87,
+      "artist": "CVIRO & GXNXVS",
+      "title": "Benjamins (Tek.Lun Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 88,
+      "artist": "Sivey ",
+      "title": "slow wave",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 89,
+      "artist": "Mozaic (AGO) ",
+      "title": "Late Night",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 90,
+      "artist": "D'Angelo And The Vanguard ",
+      "title": "Another Life",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 91,
+      "artist": "Zo! ",
+      "title": "Before Day!",
+      "session": "Joe Kay’s Session"
+    }
+  ],
+  "sessions": [
+    "Joe Kay’s Session"
+  ],
+  "number": 209,
+  "date": "2015-03-30"
+}

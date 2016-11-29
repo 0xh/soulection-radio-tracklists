@@ -1,0 +1,627 @@
+{
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "Static Major ",
+      "title": "Untitled",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Waldo ",
+      "title": "Kobe's Room (Revision)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Sango ",
+      "title": "Me dê Amor (Rare Version)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "GoldLink ",
+      "title": "Planet Paradise",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "PARTYNEXTDOOR ",
+      "title": "Wus Good / Curious",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Kojack ",
+      "title": "Any Time!",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Da-P ",
+      "title": "The Hamptons",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Kay Franklin ",
+      "title": "See How It Goes",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Thundercat ",
+      "title": "Looking for the Perfect Beat Doc",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "PYRMDPLAZA ",
+      "title": "Navi's Dance",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "XED ",
+      "title": "Ride (ft. Lodiac)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Budgie ",
+      "title": "Budgie's Groove",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Isaiah Rashad ",
+      "title": "R.I.P. Kevin Miller",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Future ",
+      "title": "Move That Dope (C. Justice_Bootleg)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Sango ",
+      "title": "Pôr do Sol Parte 2 (Bonus)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Breezy Lovejoy ",
+      "title": "P.Y.P (Acoustic Version)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Jeftuz ",
+      "title": "S.Ama",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "GoldLink ",
+      "title": "The Heart",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Zikomo ",
+      "title": "Run Pon Dem Ting",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Madlib ",
+      "title": "Cue 08",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Tuamie ",
+      "title": "No More Chips",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Zikomo ",
+      "title": "Yo Yo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Drake ",
+      "title": "Draft Day",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Slakah the Beatchild ",
+      "title": "I Surrender",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Leland Aleem Fākir ",
+      "title": "MAMA'$ HOOPTY",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "AbJo ",
+      "title": "Introspection",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "Tuamie ",
+      "title": "The More Weed Smoke I Puff",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "YG ",
+      "title": "Do It To Ya (feat. TeeFLii) (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Starship Connection ",
+      "title": "We Can Go All Night",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "Sam Gellaitry ",
+      "title": "cherish x tIm",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "The Code ",
+      "title": "Gravity",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Jacquees ",
+      "title": "Pandora (Prod. by The Love)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "Singularis ",
+      "title": "Snow",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Alina Baraz & Galimatias ",
+      "title": "Fantasy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "BADBADNOTGOOD ",
+      "title": "Kaleidoscope (Kaytranada's Flip)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "J Mo ",
+      "title": "HARDGROVE JMO RUFF",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "PYRMDPLAZA ",
+      "title": "Glassss",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "J-Louis ",
+      "title": "Can't You See",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "JAY Z x JAY ELECTRONICA ",
+      "title": "We Made It",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "Jay Electronica ",
+      "title": "better in tune w the infinite ft. LaTonya Givens",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "Raury ",
+      "title": "Cigarette Song (Snakehips Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "NiceGuyxVinny ",
+      "title": "Adeline",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "MNEK ",
+      "title": "Wrote A Song About You (Kaytranada Edition)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "Pomo ",
+      "title": "Cloud Cruise",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "Fortune ",
+      "title": "Grind",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "C. Justice - All These Girls ",
+      "title": "Gravez",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 47,
+      "artist": "Jaden Sm ith ",
+      "title": "Fast (Gravez Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "Tek.Lun ",
+      "title": "CLOX (5 Thirty)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 49,
+      "artist": "Drake ",
+      "title": "How Bout Now (Jacquees Quemix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "Evans ",
+      "title": "muse.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Esta - Kimberly Anne ",
+      "title": "Show Me Love (esta. edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 52,
+      "artist": "ZHU ",
+      "title": "Paradise Awaits Part 2 Ft Goldlink",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 53,
+      "artist": "Howie Lee ",
+      "title": "Everywhere I Go",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 54,
+      "artist": "Vic Mensa - Down On My Luck (J",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 55,
+      "artist": "Erdbeerschnitzel ",
+      "title": "With Level Hopes",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 56,
+      "artist": "Da-P dabeatX ",
+      "title": "Guessed it",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 57,
+      "artist": "Mr. Carmack ",
+      "title": "happy birthday lakim this ones for you",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 58,
+      "artist": "AbJo ",
+      "title": "Selecta!",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 59,
+      "artist": "Elhae ",
+      "title": "Drive Me Crazyy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 60,
+      "artist": "Jacquees - Drake ",
+      "title": "How Bout Now (Jacquees Quemix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 61,
+      "artist": "Drake ",
+      "title": "How Bout Now",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 62,
+      "artist": "Evans ",
+      "title": "room 404",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 63,
+      "artist": "Drumetrics ",
+      "title": "DRB 001",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 64,
+      "artist": "Drumetrics ",
+      "title": "Malcolm Catto",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 65,
+      "artist": "Drumetrics ",
+      "title": "DRB 001",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 66,
+      "artist": "Howie Lee ",
+      "title": "Everywhere I Go",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 67,
+      "artist": "Nick Maclaren ",
+      "title": "Y So SRS?",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 68,
+      "artist": "PYRMDPLAZA ",
+      "title": "Ventilate",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 69,
+      "artist": "Mikos Da Gawd ",
+      "title": "Shake",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 70,
+      "artist": "starRo ",
+      "title": "California",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 71,
+      "artist": "Sunni Colón",
+      "title": "Temple (starRo Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 72,
+      "artist": "Sunni Colón",
+      "title": "Temple (esta remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 73,
+      "artist": "Teeza ",
+      "title": "Brela",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 74,
+      "artist": "Rich Boy ",
+      "title": "Throw Some D's (Gravez VIP)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 75,
+      "artist": "Isaiah Rashad ",
+      "title": "Webbie Flow (U Like)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 76,
+      "artist": "Isaiah Rashad ",
+      "title": "Ronnie Drake (feat. SZA)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 77,
+      "artist": "Howie Lee ",
+      "title": "79 Plus 1",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 78,
+      "artist": "Summertime Stories ",
+      "title": "GOTXA BVBY",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 79,
+      "artist": "Pharrell Williams ",
+      "title": "Lost Queen",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 80,
+      "artist": "PARTYNEXTDOOR ",
+      "title": "West District",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 81,
+      "artist": "PARTYNEXTDOOR ",
+      "title": "Persian Rugs (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 82,
+      "artist": "Yung Lean ",
+      "title": "Gatorade (Lido Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 83,
+      "artist": "HOWLS ",
+      "title": "001",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 84,
+      "artist": "C. Justice ",
+      "title": "Heir",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 85,
+      "artist": "spooky black ",
+      "title": "Without U (Great Dane rmx)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 86,
+      "artist": "Aches ",
+      "title": "Her",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 87,
+      "artist": "GEOTHEORY ",
+      "title": "Futuristic Love (pt. 1)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 88,
+      "artist": "Rvdical The Kid x MisterMack ",
+      "title": "Ethereal",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 89,
+      "artist": "Von D ",
+      "title": "You're The One ft. PhePhe (Fortune Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 90,
+      "artist": "Singularis ",
+      "title": "Head Up",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 91,
+      "artist": "Pomo ",
+      "title": "Vibrator",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 92,
+      "artist": "LAKIM ",
+      "title": "Rent4",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 93,
+      "artist": "starRo - Prototype ",
+      "title": "OutKast (starRo Bossa remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 94,
+      "artist": "Mr. Carmack - MONEY IS FOR THE RENT ",
+      "title": "NOT FOR THE SOUL",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 95,
+      "artist": "Jordan Evans ",
+      "title": "DIAMONDS",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 96,
+      "artist": "Mr. Carmack & B. Bravo ",
+      "title": "STAYTHENIGHT",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 97,
+      "artist": "Sam Gellaitry ",
+      "title": "paper",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 98,
+      "artist": "Sam Gellaitry ",
+      "title": "POWDER",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 99,
+      "artist": "HXNS ",
+      "title": "work",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 100,
+      "artist": "C. Justice ",
+      "title": "2. So Good",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 101,
+      "artist": "Da-P ",
+      "title": "Dark Hadou",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 102,
+      "artist": "DIVERSA ",
+      "title": "bae",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 103,
+      "artist": "Tom Misch ",
+      "title": "The Journey",
+      "session": "Joe Kay’s Session"
+    }
+  ],
+  "sessions": [
+    "Joe Kay’s Session"
+  ],
+  "number": 199,
+  "date": "2014-12-27"
+}

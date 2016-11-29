@@ -1,0 +1,405 @@
+{
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "AbJo ",
+      "title": "OFD (One For Dilla)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Robert Glasper ",
+      "title": "Dillalude #2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "J Dilla ",
+      "title": "Think Twice",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "Samon Kawamura ",
+      "title": "You Are The Only One",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "The Detroit Experiment ",
+      "title": "Highest",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Tek Nalo G ",
+      "title": "Serene feat Flingstress",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Hugh Hopper & Alan Gowen ",
+      "title": "Morning Order",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "The Roots ",
+      "title": "Afrodisiac",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Dwele ",
+      "title": "A.N.G.E.L. (Interlude)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Bahamadia ",
+      "title": "One 4 Teen (Funky For You) (Ft. Slum Village)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Love Unlimited Orchestra ",
+      "title": "I Wanna Stay",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Q-Tip ",
+      "title": "Vivrant Thing (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": null,
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "J Dilla ",
+      "title": "Sycamore",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Chrome Children - Chrome Dreams ",
+      "title": "Madlib",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "The Roots ",
+      "title": "New Years At Jay Dees",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Crustation ",
+      "title": "Purple (Zikomo Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "J Dilla vs Brabe & Simba ",
+      "title": "Dreamy (Joe Kay's Slowed 4am Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Erykah Badu ",
+      "title": "Drama (Manuel Ricciardi Deep Mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Erykah Badu ",
+      "title": "I WANT YOU (Kaytranda Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Erykah Badu ",
+      "title": "Didn't Cha Know",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Madlib ",
+      "title": "Yo Yo Affair, Pts. 1 & 2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "J Dilla ",
+      "title": "Dime Piece ft. Dwele",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "J Dilla ",
+      "title": "Dime Piece (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "D'Angelo ",
+      "title": "Me Those Dreamin Eyes (Jay Dee Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Häzel ",
+      "title": "Turn The Lights Off",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "Slum Village ",
+      "title": "Secrets Of The Sand (Remix) (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Slum Village ",
+      "title": "Tell Me (Instrumental Mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Dr. MaD ",
+      "title": "Special way",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "Drake x Dilla ",
+      "title": "30 for Circus (Sango Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "Drake ",
+      "title": "Deceiving",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Mar ",
+      "title": "2u4u",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "The Roots ",
+      "title": "2 U 4 U",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Slum Village ",
+      "title": "2u4u (Original)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "D'Angelo ",
+      "title": "Jonz in My Bonz",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "Slum Village ",
+      "title": "Forth & Back, Rock Music",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "Slum Village ",
+      "title": "Climax",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "Stro Elliot ",
+      "title": "Dilla Tribute (Requiem For Dilla)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "Slum Village ",
+      "title": "Players (Willy Sunshine remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "Slum Village ",
+      "title": "Players",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "J.Rawls ",
+      "title": "A Tribute To Dilla",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "Dwele ",
+      "title": "Workin' On It",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "Lucy Pearl ",
+      "title": "Without You (Jay Dee Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "Common ",
+      "title": "Geto Heaven Part II (Remix) feat. D'Angelo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "Janet Jackson ",
+      "title": "Got Til’ It's Gone (Ummah Jay Dee Revenge Mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "Bilal ",
+      "title": "Checkin' U Out",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 47,
+      "artist": "Slum Village ",
+      "title": "Things U Do",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "Phife Dawg - Thought U Was Nice ",
+      "title": "(J.Mo j dilla ruff)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 49,
+      "artist": "J Dilla ",
+      "title": "Y_ (Remix) (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "Freddie Joachim ",
+      "title": "Run (Interlude For J Dilla)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Gato Barbieri ",
+      "title": "El Arriero",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 52,
+      "artist": "J Dilla ",
+      "title": "She Said (Remix) (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 53,
+      "artist": "J Dilla ",
+      "title": "Strugglin (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 54,
+      "artist": "J Dilla ",
+      "title": "Timeless (Intro) (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 55,
+      "artist": "J Dilla ",
+      "title": "Sometimes (Remix) (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 56,
+      "artist": "Sunclef ",
+      "title": "Raise It Up (dillavamp)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 57,
+      "artist": "J Dilla ",
+      "title": "Say It Big",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 58,
+      "artist": "The Roots ",
+      "title": "Girl Remix (Dilla)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 59,
+      "artist": "Slakah the Beatchild ",
+      "title": "I Surrender",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 60,
+      "artist": "J Dilla ",
+      "title": "One for Ghost",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 61,
+      "artist": "Usher ",
+      "title": "Throwback (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 62,
+      "artist": "J Dilla - J Dilla ",
+      "title": "S.M.W.Y.G. (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 63,
+      "artist": "AFTA-1 ",
+      "title": "Honey Dip",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 64,
+      "artist": "J Dilla ",
+      "title": "Beat 11",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 65,
+      "artist": "Slum Village - Fan-Tas",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 66,
+      "artist": "Robert Glasper ",
+      "title": "Dillalude 3",
+      "session": "Joe Kay’s Session"
+    }
+  ],
+  "sessions": [
+    "Joe Kay’s Session"
+  ],
+  "number": 245,
+  "date": "2016-02-06"
+}

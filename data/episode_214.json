@@ -1,0 +1,336 @@
+{
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "Joseph L'Étranger ",
+      "title": "Untitled",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "BASSBEAR!! X Swisha Sweet ",
+      "title": "_take.Grime",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Travis Scott ",
+      "title": "Antidote",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "ESTA ",
+      "title": "Shoot'emUp",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Lege (Ledge) ",
+      "title": "Jungle Ft. Masego (Drake)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Jose ",
+      "title": "Black Sand (Prod. by ango)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "PARTYNEXTDOOR x Drake ",
+      "title": "Juss Know About Now (Sango Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Flying Lotus ",
+      "title": "Breathe.Something / Stellar STar",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Q-Tip x Young Thug ",
+      "title": "All About The Money x Breathe & Stop (Sango",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Lakim ",
+      "title": "dangerous",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Louie Lastic ",
+      "title": "Close2u",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Chambray ",
+      "title": "Anew",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Kingdom ",
+      "title": "Stalker Ha",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Kartell ",
+      "title": "Attracted",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Stardust ",
+      "title": "Music Sounds Better With You (Kource Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Kource ",
+      "title": "Off The Wall",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Julian & der Fux ",
+      "title": "Unglaublich (MOTSA Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Geode ",
+      "title": "Slipstream",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Thundercat ",
+      "title": "Walkin'",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "A J ",
+      "title": "Lets Cruise Ft Gerson Rafael (Instrumental Version)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Medasin & Masego ",
+      "title": "Sego Hotline",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "The Weeknd ",
+      "title": "Earned It",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Chris McClenney ",
+      "title": "Untitled",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Shoffy ",
+      "title": "All Go mp3",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Ta-ku ",
+      "title": "Long Time No See ft. Atu (Ekali Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Miguel ",
+      "title": "Girl With the Tattoo Enter.Lewd",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "The Internet ",
+      "title": "Get Away",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "D'Angelo And The Vanguard ",
+      "title": "Really Love",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Madlib ",
+      "title": "Track 25",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "N.E.R.D. ",
+      "title": "Life As A Fish",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "N.E.R.D ",
+      "title": "Breakout",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Rage Against the Machine ",
+      "title": "Revolver",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "Mos Def ",
+      "title": "Revelations",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Usher ",
+      "title": "Throwback (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Mergeville ",
+      "title": "Donut Life",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "Esta ",
+      "title": "wavy beat",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 37,
+      "artist": "Dibiase ",
+      "title": "DB Grover",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 38,
+      "artist": "AbJo ",
+      "title": "Suite No. 3, 2nd Movement",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 39,
+      "artist": "TUAMIE ",
+      "title": "The Illest Taboo",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 40,
+      "artist": "Melo-Zed ",
+      "title": "Things Change",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 41,
+      "artist": "Sleep late ",
+      "title": "Home",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 42,
+      "artist": "Rick Boy ",
+      "title": "Get It Poppin (Instrumental)",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 43,
+      "artist": "Adam F ",
+      "title": "Circles (Phillip D Kick Footwork Edit)",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 44,
+      "artist": "Om Unit ",
+      "title": "Solar Cycle",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 45,
+      "artist": "Sam Gallantry ",
+      "title": "Us",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 46,
+      "artist": null,
+      "title": null,
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 47,
+      "artist": "Evil Needle ",
+      "title": "Untitled",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 48,
+      "artist": "Tek.Lun ",
+      "title": "G Spot",
+      "session": "Craze’s Interview"
+    },
+    {
+      "number": 49,
+      "artist": "D'Angelo ",
+      "title": "Lady//Kaelin Ellis Remix",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "The Stuyvesants ",
+      "title": "The Second Time Around",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Clipse ",
+      "title": "Intro",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 52,
+      "artist": "Daniel Grau ",
+      "title": "Nunca Conoci Amor Igual (Labuzinski & Graef Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 53,
+      "artist": "DJ Cable ",
+      "title": "Justified",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 54,
+      "artist": "TEK.LUN ",
+      "title": "Echoes",
+      "session": "Joe Kay’s Session"
+    }
+  ],
+  "sessions": [
+    "Joe Kay’s Session",
+    "Craze’s Interview",
+    "Craze’s Set",
+    "Joe Kay’s Session"
+  ],
+  "number": 214,
+  "date": "2015-07-01"
+}
