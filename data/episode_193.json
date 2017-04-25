@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-193-w-sosupersam-hannah-faith-yukibeb-kronika-eden-hagos",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000097468976-4wtpbc-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/cbH3tn9AdLr5_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/177384860/stream",
   "tracks": [
     {
       "number": 1,
@@ -541,6 +546,9 @@
       "session": "Eden's Set"
     }
   ],
+  "number": 193,
+  "date": null,
+  "tracklist_url": "http://bit.ly/Show193TrackListing",
   "sessions": [
     "Joe Kay's Set",
     "SoSuperSam's Set",
@@ -549,7 +557,5 @@
     "Sasha Marie's Set",
     "Kronika's Set",
     "Eden's Set"
-  ],
-  "number": null,
-  "date": null
+  ]
 }

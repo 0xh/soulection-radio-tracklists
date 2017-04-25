@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show196-w-gravez",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000100053589-83j1yv-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/G4yUaJ2rLUSt_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/181222567/stream",
   "tracks": [
     {
       "number": 1,
@@ -445,11 +450,12 @@
       "session": "Joe Kay’s Set"
     }
   ],
+  "number": 196,
+  "date": null,
+  "tracklist_url": "http://bit.ly/Show196TrackList",
   "sessions": [
     "Joe Kay’s Set",
     "Gravez’ Set",
     "Joe Kay’s Set"
-  ],
-  "number": null,
-  "date": null
+  ]
 }

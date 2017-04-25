@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-220-live-from-amsterdam",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000126454536-x17j7w-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/BfPhlp6jpYLh_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/219374504/stream",
   "tracks": [
     {
       "number": 1,
@@ -343,9 +348,10 @@
       "session": "Joe Kay’s Set"
     }
   ],
+  "number": 220,
+  "date": "2015-08-08",
+  "tracklist_url": "http://bit.ly/Show220TrackList",
   "sessions": [
     "Joe Kay’s Set"
-  ],
-  "number": 220,
-  "date": "2015-08-08"
+  ]
 }

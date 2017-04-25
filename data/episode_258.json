@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-258-w-jmsn",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000162704240-vfxqvk-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/263979244/download",
+  "waveform_url": "https://w1.sndcdn.com/5QQ98ekdOUqb_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/263979244/stream",
   "tracks": [
     {
       "number": 1,
@@ -241,10 +246,11 @@
       "session": "JMSN’s Session + Interview"
     }
   ],
+  "number": 258,
+  "date": "2016-05-07",
+  "tracklist_url": "http://bit.ly/Show258TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "JMSN’s Session + Interview"
-  ],
-  "number": 258,
-  "date": "2016-05-07"
+  ]
 }

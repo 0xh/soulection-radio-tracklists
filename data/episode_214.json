@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-214-w-craze-special-announcement",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000121978787-026ges-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/8lZxtnUw0zMs_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/212889912/stream",
   "tracks": [
     {
       "number": 1,
@@ -325,12 +330,13 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 214,
+  "date": "2015-07-01",
+  "tracklist_url": "http://bit.ly/Show214TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Craze’s Interview",
     "Craze’s Set",
     "Joe Kay’s Session"
-  ],
-  "number": 214,
-  "date": "2015-07-01"
+  ]
 }

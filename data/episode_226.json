@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-226-w-sir",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000130803529-4yxiew-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/fg3L5Lks65WR_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/225703052/stream",
   "tracks": [
     {
       "number": 1,
@@ -271,10 +276,11 @@
       "session": "SiR’s Session"
     }
   ],
+  "number": 226,
+  "date": "2015-09-19",
+  "tracklist_url": "http://bit.ly/Show226TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "SiR’s Session"
-  ],
-  "number": 226,
-  "date": "2015-09-19"
+  ]
 }

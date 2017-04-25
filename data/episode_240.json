@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-240-soulection-family-new-years-special",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000141868633-sdbg9r-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/240391482/download",
+  "waveform_url": "https://w1.sndcdn.com/PuunCxQ1kOT2_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/240391482/stream",
   "tracks": [
     {
       "number": 1,
@@ -661,9 +666,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 240,
+  "date": "2016-01-01",
+  "tracklist_url": "http://bit.ly/Show240TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 240,
-  "date": "2016-01-01"
+  ]
 }

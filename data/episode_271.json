@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-271-w-dj-dahi",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000176416002-fpwdmu-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/278042229/download",
+  "waveform_url": "https://w1.sndcdn.com/LD8tioIbIDwE_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/278042229/stream",
   "tracks": [
     {
       "number": 1,
@@ -469,10 +474,11 @@
       "session": "DJ Dahi’s Session"
     }
   ],
+  "number": 271,
+  "date": "2016-08-06",
+  "tracklist_url": "http://bit.ly/Show271TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "DJ Dahi’s Session"
-  ],
-  "number": 271,
-  "date": "2016-08-06"
+  ]
 }

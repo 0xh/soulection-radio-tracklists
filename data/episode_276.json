@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-276-ft-isaiah-rashad",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000183009882-fu3pft-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/283291490/download",
+  "waveform_url": "https://w1.sndcdn.com/Hxj6xSnCvWrN_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/283291490/stream",
   "tracks": [
     {
       "number": 1,
@@ -253,10 +258,11 @@
       "session": "Isaiah Rashad’s Session"
     }
   ],
+  "number": 276,
+  "date": null,
+  "tracklist_url": "http://bit.ly/Show276TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Isaiah Rashad’s Session"
-  ],
-  "number": null,
-  "date": null
+  ]
 }

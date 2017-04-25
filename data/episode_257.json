@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-257-w-esta-live-from-auckland-new-zealand",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000161675918-nulvqs-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/262840755/download",
+  "waveform_url": "https://w1.sndcdn.com/EwXMOeB3kUqc_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/262840755/stream",
   "tracks": [
     {
       "number": 1,
@@ -355,10 +360,11 @@
       "session": "Esta’s Interview + Set"
     }
   ],
+  "number": 257,
+  "date": "2016-04-30",
+  "tracklist_url": "http://bit.ly/Show257TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Esta’s Interview + Set"
-  ],
-  "number": 257,
-  "date": "2016-04-30"
+  ]
 }

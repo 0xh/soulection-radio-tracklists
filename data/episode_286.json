@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-286",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000195326599-ml98q2-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/294763925/download",
+  "waveform_url": "https://w1.sndcdn.com/7ZeqEFeEukKS_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/294763925/stream",
   "tracks": [
     {
       "number": 1,
@@ -247,9 +252,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 286,
+  "date": "2016-11-19",
+  "tracklist_url": "http://bit.ly/Show286TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 286,
-  "date": "2016-11-19"
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-253-live-from-tallinn-estonia",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000158340905-hcxicb-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/258061067/download",
+  "waveform_url": "https://w1.sndcdn.com/5fbEWejZ85Z9_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/258061067/stream",
   "tracks": [
     {
       "number": 1,
@@ -313,9 +318,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 253,
+  "date": null,
+  "tracklist_url": "http://bit.ly/Show253TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 253,
-  "date": null
+  ]
 }

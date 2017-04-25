@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-233-w-sango",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000136156180-eebh4m-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/233074452/download",
+  "waveform_url": "https://w1.sndcdn.com/r8RX2JnI8mCk_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/233074452/stream",
   "tracks": [
     {
       "number": 1,
@@ -229,10 +234,11 @@
       "session": "Sango’s Session"
     }
   ],
+  "number": 233,
+  "date": "2015-11-07",
+  "tracklist_url": "http://bit.ly/Show233TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Sango’s Session"
-  ],
-  "number": 233,
-  "date": "2015-11-07"
+  ]
 }

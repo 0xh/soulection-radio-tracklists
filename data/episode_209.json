@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-209-live-from-soho-house-toronto",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000111723207-eibbr6-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/IPw8QzxQ4JgI_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/198363103/stream",
   "tracks": [
     {
       "number": 1,
@@ -547,9 +552,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 209,
+  "date": "2015-03-30",
+  "tracklist_url": "http://bit.ly/209TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 209,
-  "date": "2015-03-30"
+  ]
 }

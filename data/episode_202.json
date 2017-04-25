@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-202-w-abjo-starro-andre-power-4th-anniversary-edition",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000104452469-gydt85-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/GmIqfAdwsmX6_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/187675140/stream",
   "tracks": [
     {
       "number": 1,
@@ -511,12 +516,13 @@
       "session": "AbJo’s Set"
     }
   ],
+  "number": 202,
+  "date": "2014-01-24",
+  "tracklist_url": "http://bit.ly/Show202TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Andre Power’s Set",
     "starRo’s Set",
     "AbJo’s Set"
-  ],
-  "number": 202,
-  "date": "2014-01-24"
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-243-live-from-rio-de-janeiro-brasil",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000145128258-ogp9zt-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/244482111/download",
+  "waveform_url": "https://w1.sndcdn.com/FV8Hcn1kwyLu_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/244482111/stream",
   "tracks": [
     {
       "number": 1,
@@ -433,9 +438,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 243,
+  "date": "2016-01-23",
+  "tracklist_url": "http://bit.ly/Show243TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 243,
-  "date": "2016-01-23"
+  ]
 }

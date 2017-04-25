@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-222-ft-oshi",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000127912028-nrizfx-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/fggZYAwytPiK_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/221485412/stream",
   "tracks": [
     {
       "number": 1,
@@ -277,10 +282,11 @@
       "session": "Oshi’s Session"
     }
   ],
+  "number": 222,
+  "date": "2015-08-22",
+  "tracklist_url": "http://bit.ly/Show222TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Oshi’s Session"
-  ],
-  "number": 222,
-  "date": "2015-08-22"
+  ]
 }

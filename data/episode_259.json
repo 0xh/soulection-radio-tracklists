@@ -1,11 +1,17 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-259-w-monte-booker",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000163734483-qo0aga-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/265102301/download",
+  "waveform_url": "https://w1.sndcdn.com/VSg57JTsRz2J_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/265102301/stream",
   "tracks": [
 
   ],
+  "number": 259,
+  "date": "2016-05-14",
+  "tracklist_url": "http://bit.ly/Show259TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Monte Booker’s Session + Interview"
-  ],
-  "number": 259,
-  "date": "2016-05-14"
+  ]
 }

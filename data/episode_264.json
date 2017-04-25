@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-264-w-no-id",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000168903946-5q4b3a-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/270753427/download",
+  "waveform_url": "https://w1.sndcdn.com/hbEn4rPYeiMG_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/270753427/stream",
   "tracks": [
     {
       "number": 1,
@@ -313,10 +318,11 @@
       "session": "No I.D.’s Interview + Set"
     }
   ],
+  "number": 264,
+  "date": "2016-06-18",
+  "tracklist_url": "http://bit.ly/Show264TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "No I.D.’s Interview + Set"
-  ],
-  "number": 264,
-  "date": "2016-06-18"
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/show-277-live-from-bangalore-india",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000185112680-nim97h-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/284551571/download",
+  "waveform_url": "https://w1.sndcdn.com/CUDuu6pXRdpH_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/284551571/stream",
   "tracks": [
     {
       "number": 1,
@@ -277,9 +282,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 277,
+  "date": "2016-09-17",
+  "tracklist_url": "http://bit.ly/Show277TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 277,
-  "date": "2016-09-17"
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/show-265-w-sasha-marie",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000169794332-immxhp-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/271798987/download",
+  "waveform_url": "https://w1.sndcdn.com/pfjEEaLEBkru_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/271798987/stream",
   "tracks": [
     {
       "number": 1,
@@ -319,10 +324,11 @@
       "session": "Sasha Marie’s Session"
     }
   ],
+  "number": 265,
+  "date": "2016-06-25",
+  "tracklist_url": "http://bit.ly/Show265Tracklist",
   "sessions": [
     "Joe Kay’s Session",
     "Sasha Marie’s Session"
-  ],
-  "number": 265,
-  "date": "2016-06-25"
+  ]
 }

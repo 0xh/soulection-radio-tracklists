@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-266-ft-smino",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000170707709-mls749-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/272822637/download",
+  "waveform_url": "https://w1.sndcdn.com/hwfbwQqfMj3E_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/272822637/stream",
   "tracks": [
     {
       "number": 1,
@@ -283,10 +288,11 @@
       "session": "Smino’s Session + Interview"
     }
   ],
+  "number": 266,
+  "date": "2016-07-02",
+  "tracklist_url": "http://bit.ly/Show266TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Smino’s Session + Interview"
-  ],
-  "number": 266,
-  "date": "2016-07-02"
+  ]
 }

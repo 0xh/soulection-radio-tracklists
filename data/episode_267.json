@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-267-w-tiffany-gouche",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000171607737-lgn791-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/273840559/download",
+  "waveform_url": "https://w1.sndcdn.com/JmVpX7A6ypvZ_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/273840559/stream",
   "tracks": [
     {
       "number": 1,
@@ -235,10 +240,11 @@
       "session": "Tiffany’s Session + Interview"
     }
   ],
+  "number": 267,
+  "date": "2016-07-09",
+  "tracklist_url": "http://bit.ly/Show267official",
   "sessions": [
     "Joe Kay’s Session",
     "Tiffany’s Session + Interview"
-  ],
-  "number": 267,
-  "date": "2016-07-09"
+  ]
 }

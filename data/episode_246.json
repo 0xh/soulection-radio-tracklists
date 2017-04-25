@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-246-w-bj-the-chicago-kid",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000147824841-v7d6ru-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/247905163/download",
+  "waveform_url": "https://w1.sndcdn.com/XyyjuGTIVFME_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/247905163/stream",
   "tracks": [
     {
       "number": 1,
@@ -217,10 +222,11 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 246,
+  "date": "2016-02-13",
+  "tracklist_url": "http://bit.ly/Show246TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "BJ The Chicago Kid’s Session"
-  ],
-  "number": 246,
-  "date": "2016-02-13"
+  ]
 }

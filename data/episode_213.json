@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-213-w-kr",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000121359630-rqufrj-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/YaXCg7gXwvVc_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/211984078/stream",
   "tracks": [
     {
       "number": 1,
@@ -457,11 +462,12 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 213,
+  "date": null,
+  "tracklist_url": "http://bit.ly/Show213TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Interview w/ KR",
     "Joe Kay’s Session"
-  ],
-  "number": null,
-  "date": null
+  ]
 }

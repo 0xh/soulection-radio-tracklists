@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-283-w-ravyn-lenae",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000192168905-apu2qk-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/291596995/download",
+  "waveform_url": "https://w1.sndcdn.com/NgdoOyHI8VSo_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/291596995/stream",
   "tracks": [
     {
       "number": 1,
@@ -241,10 +246,11 @@
       "session": "Ravyn Lenae Interview + Session"
     }
   ],
+  "number": 283,
+  "date": "2016-10-29",
+  "tracklist_url": "http://bit.ly/283TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Ravyn Lenae Interview + Session"
-  ],
-  "number": 283,
-  "date": "2016-10-29"
+  ]
 }

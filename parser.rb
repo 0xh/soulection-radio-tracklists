@@ -40,6 +40,14 @@ class TracklistParser
       track[:session] = episode[:sessions].last
     end
     episode[:tracks] << track if track.key?(:number)
+    if episode[:number] == 304 && track.fetch(:number, nil) == 41
+      episode[:tracks] << {
+        number: 40,
+        artist: nil,
+        title: nil,
+        session: episode[:sessions].last
+      }
+    end
     if track.key?(:number)
       if track[:number] != episode[:tracks].length && (episode[:number] != 261 && episode[:tracks].length > 3)
         raise StandardError, "Show ##{episode[:number]}: missing track from here #{track} #{episode[:tracks].length}"

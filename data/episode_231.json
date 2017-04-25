@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-231-w-dam-funk",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000134534236-gkd4i3-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/Ycjeh3Q6cxuS_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/230874019/stream",
   "tracks": [
     {
       "number": 1,
@@ -289,10 +294,11 @@
       "session": "Dam Funk’s Session"
     }
   ],
+  "number": 231,
+  "date": "2015-11-07",
+  "tracklist_url": "http://bit.ly/Show231TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Dam Funk’s Session"
-  ],
-  "number": 231,
-  "date": "2015-11-07"
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-278-live-from-london-uk",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000186061274-xlu7nb-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/285472127/download",
+  "waveform_url": "https://w1.sndcdn.com/lUzsgiqU8ET5_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/285472127/stream",
   "tracks": [
     {
       "number": 1,
@@ -373,9 +378,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 278,
+  "date": null,
+  "tracklist_url": "http://bit.ly/Show278TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": null,
-  "date": null
+  ]
 }

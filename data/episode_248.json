@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-248-w-jarreau-vandal",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000149673500-7qrrlg-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/250231809/download",
+  "waveform_url": "https://w1.sndcdn.com/VZ5ys8XOdqOa_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/250231809/stream",
   "tracks": [
     {
       "number": 1,
@@ -337,10 +342,11 @@
       "session": "Jarreau Vandal’s Set"
     }
   ],
+  "number": 248,
+  "date": "2016-02-27",
+  "tracklist_url": "http://bit.ly/Show248TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Jarreau Vandal’s Set"
-  ],
-  "number": 248,
-  "date": "2016-02-27"
+  ]
 }

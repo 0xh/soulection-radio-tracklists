@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-197",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000100639645-riu7r2-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/JIv2oFPP04ZY_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/182069387/stream",
   "tracks": [
     {
       "number": 1,
@@ -397,9 +402,10 @@
       "session": "Joe Kay’s Set"
     }
   ],
+  "number": 197,
+  "date": null,
+  "tracklist_url": "http://bit.ly/Show197TrackList",
   "sessions": [
     "Joe Kay’s Set"
-  ],
-  "number": 197,
-  "date": null
+  ]
 }

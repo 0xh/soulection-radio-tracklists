@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-237-w-g-eazy",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000139227017-ubia5q-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/237125573/download",
+  "waveform_url": "https://w1.sndcdn.com/mwgx64KkfZbl_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/237125573/stream",
   "tracks": [
     {
       "number": 1,
@@ -247,10 +252,11 @@
       "session": "G-Eazy’s Session"
     }
   ],
+  "number": 237,
+  "date": "2015-12-05",
+  "tracklist_url": "http://bit.ly/Show237TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "G-Eazy’s Session"
-  ],
-  "number": 237,
-  "date": "2015-12-05"
+  ]
 }

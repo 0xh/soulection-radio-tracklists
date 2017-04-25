@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-208-w-elhae",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000110315534-64rho3-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/haHHPDoAM68K_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/196300790/stream",
   "tracks": [
     {
       "number": 1,
@@ -445,11 +450,12 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 208,
+  "date": "2015-03-15",
+  "tracklist_url": "http://bit.ly/Show208TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Interview w/ Elhae",
     "Joe Kay’s Session"
-  ],
-  "number": 208,
-  "date": "2015-03-15"
+  ]
 }

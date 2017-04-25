@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-281-ft-starro",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000190061339-xxdgo2-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/289361822/download",
+  "waveform_url": "https://w1.sndcdn.com/AYSgnZTaSHYB_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/289361822/stream",
   "tracks": [
     {
       "number": 1,
@@ -259,10 +264,11 @@
       "session": "starRo’s Session + Interview"
     }
   ],
+  "number": 281,
+  "date": "2016-10-15",
+  "tracklist_url": "http://bit.ly/Show281TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "starRo’s Session + Interview"
-  ],
-  "number": 281,
-  "date": "2016-10-15"
+  ]
 }

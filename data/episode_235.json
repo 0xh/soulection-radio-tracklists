@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-235",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000137705313-2a5th0-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/235151795/download",
+  "waveform_url": "https://w1.sndcdn.com/l8WG8VzuRv7P_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/235151795/stream",
   "tracks": [
     {
       "number": 1,
@@ -241,9 +246,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 235,
+  "date": "2015-11-21",
+  "tracklist_url": "http://bit.ly/Show235TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 235,
-  "date": "2015-11-21"
+  ]
 }

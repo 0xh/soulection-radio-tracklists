@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-206-w-chris-mcclenney-da-p",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000107695423-6chp4e-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/auHyckQaQT8S_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/192495786/stream",
   "tracks": [
     {
       "number": 1,
@@ -337,11 +342,12 @@
       "session": "Interview + Session w/ Chris McClenney"
     }
   ],
+  "number": 206,
+  "date": "2015-02-22",
+  "tracklist_url": "http://bit.ly/Show206TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Interview + Session w/ Chris McClenney",
     "Session w/ Da-P"
-  ],
-  "number": 206,
-  "date": "2015-02-22"
+  ]
 }

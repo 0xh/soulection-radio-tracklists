@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-205-finale-from-cape-town-south-africa",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000107165002-nm8mh0-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/lXJokXJXdZ6V_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/191733613/stream",
   "tracks": [
     {
       "number": 1,
@@ -565,10 +570,11 @@
       "session": "The Whooligan’s Set"
     }
   ],
+  "number": 205,
+  "date": "2015-02-15",
+  "tracklist_url": "http://bit.ly/Show205TrackList",
   "sessions": [
     "Joe Kay’s Set",
     "The Whooligan’s Set"
-  ],
-  "number": 205,
-  "date": "2015-02-15"
+  ]
 }

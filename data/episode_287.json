@@ -1,0 +1,316 @@
+{
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-287-w-hannah-faith",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000196562049-uay1ek-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/295958096/download",
+  "waveform_url": "https://w1.sndcdn.com/RTCoDYrMtjQx_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/295958096/stream",
+  "number": 287,
+  "date": "2016-11-26",
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "October London ",
+      "title": "Color Blind",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Dawn Penn ",
+      "title": "You Don't Love Me (No, No, No)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Erykah Badu ",
+      "title": "Rimshot (Intro)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "The Whatnauts ",
+      "title": "I'll Erase Away Your Pain",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Twista ",
+      "title": "Overnight Celebrity [Instrumental] (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Bob & Gene ",
+      "title": "Gotta Find a Way",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Dennis Brown ",
+      "title": "Revolution",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "D'angelo ",
+      "title": "The Root",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "SWV ",
+      "title": "Can We ft. Missy Elliot (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Pharrell ",
+      "title": "It Was a Great Day",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Pharrell ",
+      "title": "Liquid Swords",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "sam gellaitry ",
+      "title": "smooth",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": null,
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "oriJanus ",
+      "title": "Unfin (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Kanye West ",
+      "title": "Champion",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Hi-Tek ",
+      "title": "Det Ta Steppin'",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Common ",
+      "title": "Geto Heaven Part II (Remix) feat. D'Angelo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "AFTA-1 ",
+      "title": "4nia",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Jay Dee Beats ",
+      "title": "Tic Tock",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "J Dilla ",
+      "title": "Track 02",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Skymark ",
+      "title": "Special E.D",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "TLC ",
+      "title": "Creep",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Young Gunz ",
+      "title": "No Better Love (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Talib Kweli/Mos Def ",
+      "title": "Brown skin lady",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Dayla ",
+      "title": "Al Luna",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 26,
+      "artist": "Don Mayor ",
+      "title": "Gypsy Mayor",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 27,
+      "artist": "Slum Village ",
+      "title": "Selfish (AbJo Vibra Remix)",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 28,
+      "artist": "Craig David ",
+      "title": "Fill Me In (Sharpsound Cancrejo)",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 29,
+      "artist": "TRVE HILL ",
+      "title": "QUE SE SEPA RMX",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 30,
+      "artist": "Kryone ",
+      "title": "Más Vibrações",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 31,
+      "artist": "VLVT JONES ",
+      "title": "Nao Tem Nada",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 32,
+      "artist": "Bluestaeb ",
+      "title": "Didn't Cha Know",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 33,
+      "artist": "Melodiesinfonie ",
+      "title": "Sunshine is Gone",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 34,
+      "artist": "Childish Gambino ",
+      "title": "Redbone",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 35,
+      "artist": "Seneca B ",
+      "title": "Flowers",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 36,
+      "artist": "NxWorries - Anderson Paak & Knxwledge ",
+      "title": "Lyk Dis",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 37,
+      "artist": "Ruck P ",
+      "title": "Belvedere",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 38,
+      "artist": "Flamingosis ",
+      "title": "Believe In Me",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 39,
+      "artist": "S.Raw ",
+      "title": "Thump",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 40,
+      "artist": "Stro Elliot ",
+      "title": "Kamaal Coltrane",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 41,
+      "artist": "A Tribe Called Quest ",
+      "title": "Whatever will Be",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 42,
+      "artist": null,
+      "title": null,
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 43,
+      "artist": null,
+      "title": null,
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 44,
+      "artist": "Duncan gerow ",
+      "title": "Brandy + Stwo = Full Moon",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 45,
+      "artist": "Osmar Milito e Quarteto Forma ",
+      "title": "America Latina",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 46,
+      "artist": "Ruck P ",
+      "title": "Bembeya",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 47,
+      "artist": "Barabass & The Happy Few",
+      "title": null,
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 48,
+      "artist": "Solange ",
+      "title": "Cranes in The Sky (Kaytranada Remix)",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 49,
+      "artist": "HOW DO I LET GO ",
+      "title": "DENNIS FERRER",
+      "session": "Hannah Faith’s Interview + Mix"
+    },
+    {
+      "number": 50,
+      "artist": "soulohlove ",
+      "title": "la madrugada",
+      "session": "Hannah Faith’s Interview + Mix"
+    }
+  ],
+  "tracklist_url": "http://bit.ly/Show287TrackList",
+  "sessions": [
+    "Joe Kay’s Session",
+    "Hannah Faith’s Interview + Mix"
+  ]
+}

@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-279-ft-dave-b",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000187220561-g9ubjy-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/286655367/download",
+  "waveform_url": "https://w1.sndcdn.com/I7zHCzIJuBo9_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/286655367/stream",
   "tracks": [
     {
       "number": 1,
@@ -283,10 +288,11 @@
       "session": "Dave B Interview + Session"
     }
   ],
+  "number": 279,
+  "date": null,
+  "tracklist_url": "http://bit.ly/Show279TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Dave B Interview + Session"
-  ],
-  "number": 279,
-  "date": null
+  ]
 }

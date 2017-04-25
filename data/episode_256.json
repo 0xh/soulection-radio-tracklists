@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-256-live-from-sydney-australia",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000160480763-t5pnv5-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/261577101/download",
+  "waveform_url": "https://w1.sndcdn.com/zGg73LDs5ymk_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/261577101/stream",
   "tracks": [
     {
       "number": 1,
@@ -349,9 +354,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 256,
+  "date": "2016-04-23",
+  "tracklist_url": "http://bit.ly/Show256TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 256,
-  "date": "2016-04-23"
+  ]
 }

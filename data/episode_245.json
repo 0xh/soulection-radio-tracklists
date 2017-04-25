@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-245-dilla-tribute",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000146959562-sp742m-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/246800615/download",
+  "waveform_url": "https://w1.sndcdn.com/ym9QYXrRNLPZ_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/246800615/stream",
   "tracks": [
     {
       "number": 1,
@@ -397,9 +402,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 245,
+  "date": "2016-02-06",
+  "tracklist_url": "http://bit.ly/Show245TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 245,
-  "date": "2016-02-06"
+  ]
 }

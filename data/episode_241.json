@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-241-w-omarion",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000143302716-6b39v9-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/242188756/download",
+  "waveform_url": "https://w1.sndcdn.com/d9FYVF5sYgZ7_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/242188756/stream",
   "tracks": [
     {
       "number": 1,
@@ -301,10 +306,11 @@
       "session": "Interview w/ Omarion"
     }
   ],
+  "number": 241,
+  "date": "2016-01-09",
+  "tracklist_url": "http://bit.ly/Show241TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Interview w/ Omarion"
-  ],
-  "number": 241,
-  "date": "2016-01-09"
+  ]
 }

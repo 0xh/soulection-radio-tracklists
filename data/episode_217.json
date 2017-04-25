@@ -1,12 +1,18 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-217-w-iamnobodi",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000124336504-ypnhds-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/G8nDpg6EsSdE_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/216313500/stream",
   "tracks": [
 
   ],
+  "number": 217,
+  "date": "2015-07-18",
+  "tracklist_url": "http://bit.ly/Show217TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "IAMNOBODI’s Interview",
     "IAMNOBODI’s Session"
-  ],
-  "number": 217,
-  "date": "2015-07-18"
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-250-w-abjo-live-from-guadalajara-mexico",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000151660647-gjn25h-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/252740600/download",
+  "waveform_url": "https://w1.sndcdn.com/yj2Bsv41AjlJ_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/252740600/stream",
   "tracks": [
     {
       "number": 1,
@@ -535,10 +540,11 @@
       "session": "AbJo’s Set"
     }
   ],
+  "number": 250,
+  "date": "2016-03-12",
+  "tracklist_url": "http://bit.ly/Show250TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "AbJo’s Set"
-  ],
-  "number": 250,
-  "date": "2016-03-12"
+  ]
 }

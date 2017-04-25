@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-247-w-wondagurl",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000148741902-ur21i4-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/249050092/download",
+  "waveform_url": "https://w1.sndcdn.com/rHnLwHVcHMUW_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/249050092/stream",
   "tracks": [
     {
       "number": 1,
@@ -343,10 +348,11 @@
       "session": "Wondagurl Interview + Session"
     }
   ],
+  "number": 247,
+  "date": "2016-02-20",
+  "tracklist_url": "http://bit.ly/Show247TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Wondagurl Interview + Session"
-  ],
-  "number": 247,
-  "date": "2016-02-20"
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-242-w-ginuwine",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000144187074-didsgt-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/243291140/download",
+  "waveform_url": "https://w1.sndcdn.com/bdw0kk3704Tp_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/243291140/stream",
   "tracks": [
     {
       "number": 1,
@@ -301,10 +306,11 @@
       "session": "Interview w/ Ginuwine"
     }
   ],
+  "number": 242,
+  "date": "2016-01-16",
+  "tracklist_url": "http://bit.ly/Show242TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Interview w/ Ginuwine"
-  ],
-  "number": 242,
-  "date": "2016-01-16"
+  ]
 }

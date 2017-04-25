@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-251-the-peoples-choice",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000153989794-8pcvc6-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/255000727/download",
+  "waveform_url": "https://w1.sndcdn.com/sxRJUDXR7mC1_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/255000727/stream",
   "tracks": [
     {
       "number": 1,
@@ -313,9 +318,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 251,
+  "date": "2016-03-19",
+  "tracklist_url": "http://bit.ly/Show251TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 251,
-  "date": "2016-03-19"
+  ]
 }

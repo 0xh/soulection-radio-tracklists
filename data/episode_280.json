@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-280-w-gilles-peterson",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000188309044-j20cdc-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/287678309/download",
+  "waveform_url": "https://w1.sndcdn.com/mH6DxFCyP2pG_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/287678309/stream",
   "tracks": [
     {
       "number": 1,
@@ -283,10 +288,11 @@
       "session": "Gilles Peterson + Interview"
     }
   ],
+  "number": 280,
+  "date": "2016-10-08",
+  "tracklist_url": "http://bit.ly/Show280TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Gilles Peterson + Interview"
-  ],
-  "number": 280,
-  "date": "2016-10-08"
+  ]
 }

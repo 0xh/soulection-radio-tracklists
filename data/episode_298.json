@@ -1,0 +1,387 @@
+{
+  "date": "2017-02-25",
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "Eric Lau ",
+      "title": "Flute Time",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "TUAMIE ",
+      "title": "heart to heart",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Zill Greene ",
+      "title": "TOO MUCH/TOO LIL //",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "A.J ",
+      "title": "Miracles",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "NSamon Kawamura ",
+      "title": "You are the Only One",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "The Detroit Experiment ",
+      "title": "Highest",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "big wave + carter ",
+      "title": "go ladies",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Erykah Badu ",
+      "title": "Vibrate On",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Kanye West ",
+      "title": "All Falls Down (Feat. Lauryn Hill)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Mary J. Blige ",
+      "title": "Be Happy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Jazzanova ",
+      "title": "L.O.V.E & You & I (Madlib Love Phase mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Roy Ayers Ubiquity ",
+      "title": "Everybody Loves the Sunshine",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Mary J. Blige ",
+      "title": "My Life",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "D'Angelo ",
+      "title": "Everybody loves the Sunshine",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Dolly ",
+      "title": "Turn Your Lights On",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Pharrell & The Yessirs ",
+      "title": "Take It Off",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Brent Faiyaz ",
+      "title": "Natural Release",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "foisey. ",
+      "title": "im.gone",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "quickly, quickly ",
+      "title": "fog",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Pete Rock ",
+      "title": "play dis only at night",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "foisey. ",
+      "title": "nutrition_",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Kanye West ",
+      "title": "'03 Electric Relaxation (Feat. Consequence)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "big wave + carter ",
+      "title": "4moms",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Dionne Warwick ",
+      "title": "Your Gonna Need Me",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "ZAPP - ZAPP ",
+      "title": "Computer Love",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Suff Daddy ",
+      "title": "Isley Interlude",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "mr surf - lol eu",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Chris Brown ",
+      "title": "Yo (Excuse Me Miss)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Sylvia Striplin ",
+      "title": "You Can't turn me away",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "Keni Burke ",
+      "title": "Risin' to the Top",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "Donell Jones ",
+      "title": "All About You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "duncan gerow ",
+      "title": "D'Angelo + Timbaland = Brown Sugar",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "duncan gerow - Aaliyah vs. Dr Dre ",
+      "title": "If Your Girl Only Knew",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "duncan gerow ",
+      "title": "Teedra Moses + IAMNOBODI = Be Your Girl",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "El Debarge ",
+      "title": "Stay With Me",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "Bobby V ",
+      "title": "Slow Down",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "Slum Village ",
+      "title": "The Look Of Love",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "Jaël ",
+      "title": "RockTheFloat. (Aaliyah",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "Justin Timberlake ",
+      "title": "(Oh No) What You Got",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "Jagged Edge ",
+      "title": "Where The Party At ft. Nelly (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "Common ",
+      "title": "The Light",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "Nelly ",
+      "title": "Hot In Herre",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "Bell Biv DeVoe ",
+      "title": "Poison",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "Missy Elliott ",
+      "title": "She's a Bitch",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "Ginuwine ",
+      "title": "Wait A Minute",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "Sonder ",
+      "title": "Searchin",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 47,
+      "artist": "foisey. ",
+      "title": "ontStp",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "Sinead Harnett ",
+      "title": "If You Let Me (feat. GRADES)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 49,
+      "artist": "Sade ",
+      "title": "Is It a Crime",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "Busta Rhymes ",
+      "title": "What's It Gonna Be?! (feat. Janet)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Jael ",
+      "title": "Beautiful VS Wake Up! (Jael Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 52,
+      "artist": "The Weeknd ",
+      "title": "What You Need [Prison Garde Eight Oh Eight Remix]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 53,
+      "artist": "Tennyson x Mr. Carmack ",
+      "title": "Tuesday",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 54,
+      "artist": "Migos ",
+      "title": "raindrop2099 (montell2099 bad an boujee edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 55,
+      "artist": "SBTRKT ",
+      "title": "Hold On (feat. Sampha)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 56,
+      "artist": "Chaos In The CBD ",
+      "title": "Observe",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 57,
+      "artist": "Moff & Tarkin ",
+      "title": "Thumbs And Toes",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 58,
+      "artist": "Intr0beatz ",
+      "title": "Daily Routine",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 59,
+      "artist": "Intr0beatz ",
+      "title": "The Process",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 60,
+      "artist": "Star Creature 7001B - E. Live ",
+      "title": "\"Be Free\" ft. Sally Green",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 61,
+      "artist": "Usher ",
+      "title": "Superstar (Interlude) [Joe Kay's Slowed Edit]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 62,
+      "artist": "Michael Jackson ",
+      "title": "Rock With You • The Reflex Re√ision",
+      "session": "Joe Kay’s Session"
+    }
+  ],
+  "number": 298,
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-298-kuala-lumpur-malaysia",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000210673565-l8pp8q-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/310609750/download",
+  "waveform_url": "https://w1.sndcdn.com/UxXS9RnREHxk_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/310609750/stream",
+  "tracklist_url": "http://bit.ly/Show298TrackList",
+  "sessions": [
+    "Joe Kay’s Session"
+  ]
+}

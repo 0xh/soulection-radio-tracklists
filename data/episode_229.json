@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-229-w-goldlink",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000132948414-y8uo8c-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/RnsxHiZ5n7hk_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/228711500/stream",
   "tracks": [
     {
       "number": 1,
@@ -211,10 +216,11 @@
       "session": "GoldLink’s Session + Interview"
     }
   ],
+  "number": 229,
+  "date": "2015-10-24",
+  "tracklist_url": "http://bit.ly/Show229TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "GoldLink’s Session + Interview"
-  ],
-  "number": 229,
-  "date": "2015-10-24"
+  ]
 }

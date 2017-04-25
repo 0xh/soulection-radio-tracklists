@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-211-w-jay-prince-live-from-europe",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000116798304-osrop6-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/gtTb4W4KoYbe_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/205499383/stream",
   "tracks": [
     {
       "number": 1,
@@ -415,12 +420,13 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 211,
+  "date": "2015-05-31",
+  "tracklist_url": "http://bit.ly/Show211TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "PYRMDPLAZA Interview",
     "PYRMDPLAZA’s Session",
     "Joe Kay’s Session"
-  ],
-  "number": 212,
-  "date": "2015-05-31"
+  ]
 }

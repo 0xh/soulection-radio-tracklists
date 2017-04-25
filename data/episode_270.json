@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-270-w-stro-elliot",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000175050898-xnkohj-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/277009246/download",
+  "waveform_url": "https://w1.sndcdn.com/TAAnTxpLxukt_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/277009246/stream",
   "tracks": [
     {
       "number": 1,
@@ -253,10 +258,11 @@
       "session": "Stro Elliot’s Session + Interview"
     }
   ],
+  "number": 270,
+  "date": "2016-07-30",
+  "tracklist_url": "http://bit.ly/Show270TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Stro Elliot’s Session + Interview"
-  ],
-  "number": 270,
-  "date": "2016-07-30"
+  ]
 }

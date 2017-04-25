@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/show-207-the-peoples-choice-a-nujabes-tribute-w-daddy-kev",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000108544839-z6ccal-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/EX3ZDAhTbU9U_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/193711740/stream",
   "tracks": [
     {
       "number": 1,
@@ -403,9 +408,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 207,
+  "date": null,
+  "tracklist_url": "http://bit.ly/Show207TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 207,
-  "date": null
+  ]
 }

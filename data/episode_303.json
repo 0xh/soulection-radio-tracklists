@@ -1,0 +1,279 @@
+{
+  "date": "2017-04-01",
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "Tall Black Guy ",
+      "title": "JB Suite I",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Madlib ",
+      "title": "The Strip (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Onra ",
+      "title": "High Hopes (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "elkco ",
+      "title": "All Night",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "elkco ",
+      "title": "bobby v type (beat For Sale)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "L33 ",
+      "title": "First Step In Cali",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Letherette ",
+      "title": "Sweeter",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "MXXWLL ",
+      "title": "4U",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Tha Eastsidaz ",
+      "title": "G'D Up (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Mr. Carmack ",
+      "title": "otis otis",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "The Notorious B.I.G. ",
+      "title": "One More Chance / Stay With Me (Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Mobb Deep ",
+      "title": "Shook Ones Pt. II",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Fugees ",
+      "title": "Killing Me Softly",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Lauryn Hill ",
+      "title": "Lost Ones",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "j.robb ",
+      "title": "443",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Kiefer ",
+      "title": "15 For 15 (day 15/15)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "luigi ",
+      "title": "Oh my god",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "j.robb ",
+      "title": "black beatles ii",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Drake ",
+      "title": "Free Smoke (edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "YO-ZU ",
+      "title": "Salside",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Rebound X ",
+      "title": "Rhythm 'N' Gash (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Geode ",
+      "title": "Plankton Gravy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Mala ",
+      "title": "Alicia",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Snoh Aalegra ",
+      "title": "Nothing Burns Like the Cold ft. Vince Staples",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Sister Nancy ",
+      "title": "Pegion Rock",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Barrington Levy ",
+      "title": "Prison Oval Rock",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "Chronixx ",
+      "title": "Here Comes Trouble (Dub)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Ini Kamoze ",
+      "title": "Wings With Me",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "SONORA CARRUSELES ",
+      "title": "AVE MARIA LOLA",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "Joe Arroyo ",
+      "title": "Rebelión",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "FRUKO Y SUS TESOS ",
+      "title": "EL PRESO",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "MARVIN SANTIAGO ",
+      "title": "FUEGO A LA JICOTEA",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "Alfa Mist ",
+      "title": "Brian",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Alfa Mist ",
+      "title": "Nucleus",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "ROMderful. ",
+      "title": "over.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "Herzeloyde ",
+      "title": "sick love song beta",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "Singularis ",
+      "title": "AY",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "AbJo ",
+      "title": "Gabriel (Sampha Live Refix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": null,
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "Zikomo - Soul II Soul ",
+      "title": "Back To Life (Zikomo Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "GoldLink ",
+      "title": "Some Girl (feat. Steve Lacy)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "Koffee Brown ",
+      "title": "After Party",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "Alfa Mist ",
+      "title": "Errors",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "IAMNOBODI ",
+      "title": "tangerine",
+      "session": "Joe Kay’s Session"
+    }
+  ],
+  "number": 303,
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-303",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000216903359-rrdfpn-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/316723978/download",
+  "waveform_url": "https://w1.sndcdn.com/mTrtAwNyt5aS_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/316723978/stream",
+  "tracklist_url": "http://bit.ly/Show303TrackList",
+  "sessions": [
+    "Joe Kay’s Session"
+  ]
+}

@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-227-w-mr-carmack",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000131494921-xf2w0m-t500x500.jpg",
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/jOrOyX793kMk_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/226690523/stream",
   "tracks": [
     {
       "number": 1,
@@ -331,10 +336,11 @@
       "session": "Mr. Carmack’s Session + Interview"
     }
   ],
+  "number": 227,
+  "date": "2015-09-26",
+  "tracklist_url": "http://bit.ly/Show227TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Mr. Carmack’s Session + Interview"
-  ],
-  "number": 227,
-  "date": "2015-09-26"
+  ]
 }

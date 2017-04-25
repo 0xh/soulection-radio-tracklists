@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-274-w-mac-miller",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000180407434-8dm3os-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/281152922/download",
+  "waveform_url": "https://w1.sndcdn.com/ZeZxGiNKS0Jh_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/281152922/stream",
   "tracks": [
     {
       "number": 1,
@@ -301,9 +306,10 @@
       "session": "Joe Kay’s Session"
     }
   ],
+  "number": 274,
+  "date": "2016-08-27",
+  "tracklist_url": "http://bit.ly/Show274TrackList",
   "sessions": [
     "Joe Kay’s Session"
-  ],
-  "number": 274,
-  "date": "2016-08-27"
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-268-ft-jerreau",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000172856469-uwd1du-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/274936437/download",
+  "waveform_url": "https://w1.sndcdn.com/7NxmeyymO2fO_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/274936437/stream",
   "tracks": [
     {
       "number": 1,
@@ -289,10 +294,11 @@
       "session": "Jerreau’s Session + Interview"
     }
   ],
+  "number": 268,
+  "date": "2016-07-16",
+  "tracklist_url": "http://bit.ly/Show268TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Jerreau’s Session + Interview"
-  ],
-  "number": 268,
-  "date": "2016-07-16"
+  ]
 }

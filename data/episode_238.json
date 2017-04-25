@@ -1,4 +1,9 @@
 {
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-238-w-jhene-aiko",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000140063636-ds4fom-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/238183651/download",
+  "waveform_url": "https://w1.sndcdn.com/gLUu9TI4y10a_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/238183651/stream",
   "tracks": [
     {
       "number": 1,
@@ -247,10 +252,11 @@
       "session": "Jhené Aiko’s Session"
     }
   ],
+  "number": 238,
+  "date": "2015-12-12",
+  "tracklist_url": "http://bit.ly/Show238TrackList",
   "sessions": [
     "Joe Kay’s Session",
     "Jhené Aiko’s Session"
-  ],
-  "number": 238,
-  "date": "2015-12-12"
+  ]
 }
