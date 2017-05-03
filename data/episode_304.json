@@ -1,7 +1,318 @@
 {
-  "date": null,
+  "date": "2017-04-08",
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": "K15music ",
+      "title": "innaturmoil",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "greenSLLIME ",
+      "title": "Bad and Boujee Remix",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Bubblerap ",
+      "title": "Give Me A Sign",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "Kiefer ",
+      "title": "can u tell (day 3/15)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "DJ Harrison ",
+      "title": "Great Day In The Morn cover",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "jupiter tuning center ",
+      "title": "mini jass",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "j.robb ",
+      "title": "brwnsga",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Jhasi - Sl",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Hiatus Kaiyote ",
+      "title": "Fingerprints",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Torben Unit ",
+      "title": "Es hat doch jemand gehört",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "The Internet ",
+      "title": "Special Affair",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "j.robb ",
+      "title": "are you that black beatle",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Aaliyah ",
+      "title": "Are You That Somebody? (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Teeza ",
+      "title": "Brela",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "D.R.A.M. ",
+      "title": "Cute (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Bobby Valentino ",
+      "title": "Anonymous Feat. Timbaland [Instrumental]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "None - Full Crate ",
+      "title": "Really Love (Jaël Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "NARCO ",
+      "title": "amor e mec",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Chance The Rapper ",
+      "title": "Juke Juke",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "GoldLink ",
+      "title": "Kokamoe Freestyle",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Mr. Carmack ",
+      "title": "Tellmehowthatmollyfeels",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Lupe Fiasco ",
+      "title": "I Gotcha (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Kelis Feat. Nas ",
+      "title": "Popular Thug (Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Clipse ",
+      "title": "Mr. Me Too (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Jadakiss ",
+      "title": "Knock Yourself Out (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "N*E*R*D ",
+      "title": "Rockstar (Poser) [Instrumental]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "Mase ",
+      "title": "Looking At Me (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Pharrell ",
+      "title": "Stay With Me (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Fabolous Feat. Pharrell & Mike Shorey ",
+      "title": "Young & Sexy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "LL Cool J Feat. Pharrell & Marc Dorsey ",
+      "title": "Luv You Better",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "Pharrell Williams ",
+      "title": "That Girl (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Q-Tip ",
+      "title": "For The Nasty (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "N.E.R.D ",
+      "title": "Run To The Sun",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Little Dragon ",
+      "title": "Killing Me",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Butcher Brown ",
+      "title": "Anthem",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "Flyinglotus - You're Dead! ",
+      "title": "Haleys Line//thundercat",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "Pirahnahead ",
+      "title": "Inner Turmoil",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "Jay Simon ",
+      "title": "Faith",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "Butcher Brown ",
+      "title": "Mass Appeal Cover",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "Butcher Brown ",
+      "title": "Forest Green",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 40,
+      "artist": null,
+      "title": null,
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "Kiefer ",
+      "title": "Evil Eye",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "Kiefer ",
+      "title": "Butterfly in my House",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "Kiefer ",
+      "title": "New Apt",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "Kiefer ",
+      "title": "Ghosted",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "Kiefer ",
+      "title": "Happysad Sunday",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 47,
+      "artist": "Kiefer ",
+      "title": "U R What U Repeatedly Do",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "Kiefer ",
+      "title": "Celebrate",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 49,
+      "artist": "Kiefer ",
+      "title": "Thinkin Of",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "Kiefer ",
+      "title": "Most Beautiful Grl",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Kiefer ",
+      "title": "Kickinit Alone",
+      "session": "Kiefer’s Session"
+    },
+    {
+      "number": 52,
+      "artist": "Kiefer ",
+      "title": "Reinvent Yo Self",
+      "session": "Kiefer’s Session"
+    }
   ],
   "number": 304,
   "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-304-ft-kiefer",
@@ -9,5 +320,9 @@
   "download_url": "https://api.soundcloud.com/tracks/317739784/download",
   "waveform_url": "https://w1.sndcdn.com/PPL6HcnQwRuW_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/317739784/stream",
-  "tracklist_url": "http://bit.ly/Show304TrackList"
+  "tracklist_url": "http://bit.ly/Show304TrackList",
+  "sessions": [
+    "Joe Kay’s Session",
+    "Kiefer’s Session"
+  ]
 }
