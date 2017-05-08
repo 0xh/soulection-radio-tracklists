@@ -1,13 +1,375 @@
 {
-  "date": null,
+  "date": "2017-04-22",
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": "Vanilla ",
+      "title": "2AM (Intro)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Slom ",
+      "title": "Toucan",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "KDaGreat ",
+      "title": "Sunday",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "nekolye ",
+      "title": "nono",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Nick Pacoli ",
+      "title": "Closure",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "MIKOS DA GAWD ",
+      "title": "cleanse",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Kendrick Lamar ",
+      "title": "DNA. (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Sonder ",
+      "title": "Slow Drag",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Sonder ",
+      "title": "Feel",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Tyler, the Creator ",
+      "title": "FIND YOUR WINGS (feat. Roy Ayers, Syd Bennett, and Kali",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "J Dilla ",
+      "title": "Dillatronic 13",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "foisey. ",
+      "title": "feminine.nergy_",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "foisey. ",
+      "title": "hey.Moo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "foisey. ",
+      "title": "Taina_",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "foisey. ",
+      "title": "On2U",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "foisey. ",
+      "title": "NvrLie.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "foisey. ",
+      "title": "Kupid.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "foisey. ",
+      "title": "[weather]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "foisey. ",
+      "title": "Savings.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "foisey. ",
+      "title": "MelanatedWomen.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "foisey. ",
+      "title": "dream.prt2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "foisey. ",
+      "title": "_aiightt. {mosdef} [s/o to evryone]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "foisey. ",
+      "title": "Dandruff.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "foisey. ",
+      "title": "allfalls.dwn {yung ye}",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "foisey. ",
+      "title": "dnce4me_{mjb}.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "foisey. ",
+      "title": "sunbeams",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "foisey. ",
+      "title": "InmyPrime.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "foisey. ",
+      "title": "SxyLuv.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "foisey. ",
+      "title": "Slojamz_{jamiefox&kanye}",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "foisey. ",
+      "title": "myJam_",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "foisey. ",
+      "title": "ExcuseMe.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "foisey. ",
+      "title": "ThinknAbtU",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "foisey. ",
+      "title": "yuhHolluh.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "foisey. ",
+      "title": "AlliWant.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Herzeloyde ",
+      "title": "Dark Soul",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "Evil Needle & Sivey ",
+      "title": "Next Gen",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "Hudson Mohawke ",
+      "title": "Track 3",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "Hudson Mohawke ",
+      "title": "Twistclip Loop",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "Hudson Mohawke ",
+      "title": "Overnight",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "whereisalex ",
+      "title": "boo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "Kodak Black ",
+      "title": "Top Off Benz (feat. Young Thug)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "Krs. ",
+      "title": "Wine Up Pon Di Interlude",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "j.robb ",
+      "title": "calabria wip [130]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "Hi Tom ",
+      "title": "Tablet",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "Skepta ",
+      "title": "Nasty",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "AJ Tracey ",
+      "title": "Pasta",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 47,
+      "artist": "The Cool Kids ",
+      "title": "TV Dinner",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "ProducedByTalenTed ",
+      "title": "Foreva",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 49,
+      "artist": "TUAMIE ",
+      "title": "grateful",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "KDaGreat ",
+      "title": "Can't Stop",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Vanilla ",
+      "title": "Crystals",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 52,
+      "artist": "Sade ",
+      "title": "Nothing Can Come Between us (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 53,
+      "artist": "The Roots ",
+      "title": "Act Too (The Love Of My Life) Ft. Common",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 54,
+      "artist": "A Tribe Called Quest ",
+      "title": "If The Papes Come",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 55,
+      "artist": "Madvillain ",
+      "title": "3.214",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 56,
+      "artist": "j.robb ",
+      "title": "working on a project while also taking strange turns in my musicdirection",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 57,
+      "artist": "Tuxedo ",
+      "title": "Special",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 58,
+      "artist": "Anna Wise ",
+      "title": "Some Mistakes",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 59,
+      "artist": "Estelle ",
+      "title": "American boy (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 60,
+      "artist": "Che Ecru ",
+      "title": "2AM (Joe Kay's Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    }
   ],
   "number": 306,
   "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-306",
   "artwork_url": "https://i1.sndcdn.com/artworks-000220265751-zgyzhi-t500x500.jpg",
-  "download_url": null,
+  "download_url": "https://api.soundcloud.com/tracks/320098753/download",
   "waveform_url": "https://w1.sndcdn.com/rLrThmIpUbM4_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/320098753/stream",
-  "tracklist_url": "http://Coming Soon"
+  "tracklist_url": "http://bit.ly/Show306TrackList",
+  "sessions": [
+    "Joe Kay’s Session"
+  ]
 }
