@@ -1,7 +1,318 @@
 {
   "date": null,
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": "S7VEN ",
+      "title": "Customs (Acoustic Session) (ft. Jacqueline Turner)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Kuna Maze ",
+      "title": "Still Dry (feat. Koji)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "AFTA-1 ",
+      "title": "Early Ideas",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "a* - close 2 you (w",
+      "title": "pthab)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Rainy Milo ",
+      "title": "Ricochet",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Zilo ",
+      "title": "Lunar",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Jayden ",
+      "title": "she all on me",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "mr surf ",
+      "title": "i bootlegged foisey 2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "mattdeguia ",
+      "title": "champion wrist",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Smino ",
+      "title": "blkswn",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Childish Gambino ",
+      "title": "Stand Tall",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "GQ ",
+      "title": "I Do Love You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Dwele ",
+      "title": "Dime For Your Thoughts",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Jordan Rakei ",
+      "title": "Add the Bassline",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "The Roots ",
+      "title": "Act Too (The Love Of My Life) (Feat. Common)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "AbJo ",
+      "title": "INeedToStartUsingMoreVocalSamplesLol (REMOVE TRACK FROM THIS",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "AstroLogical ",
+      "title": "behind you",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Pharrell ",
+      "title": "Best Friend",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Jaël ",
+      "title": "RockTheFloat. (Aaliyah)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Keith Sweat ",
+      "title": "Twisted",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Ashanti ",
+      "title": "Happy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "G-Unit ",
+      "title": "Wanna Get to Know You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Guordan Banks ",
+      "title": "Keep You in Mind",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Bryson Tiller ",
+      "title": "Don’t (Esta’s Remix)",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 25,
+      "artist": "SOSUPERSAM - So ft. P",
+      "title": null,
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 26,
+      "artist": "SOSUPERSAM ",
+      "title": "JUST IN CASE (PROD. E. DOZA)",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 27,
+      "artist": "SOULRAQ ",
+      "title": "I FEEL LIKE",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 28,
+      "artist": "KAYZEE ",
+      "title": "BIPOLAR DISORDER",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 29,
+      "artist": "ELIAS SEGUJJA ",
+      "title": "SOMEBODY",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 30,
+      "artist": "RICK ROSS ",
+      "title": "WE GON MAKE IT",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 31,
+      "artist": "EVIL NEEDLE ",
+      "title": "GOOD TIMES",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 32,
+      "artist": "BIG L ",
+      "title": "PUT IT ON (LAKIM REMIX)",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 33,
+      "artist": "GOAPELE ",
+      "title": "CLOSER",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 34,
+      "artist": "A TRIBE CALLED QUEST FT. KENDRICK LAMAR ",
+      "title": "CONRAD TOKYO",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 35,
+      "artist": "J.AR.J ",
+      "title": "MELLOTRON SUMMER",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 36,
+      "artist": "HUDSON EAST & ESTA ",
+      "title": "CALL ME",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 37,
+      "artist": "IAMNOBODI ",
+      "title": "CLAUTCH",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 38,
+      "artist": "SOSUPERSAM ",
+      "title": "ONE (PROD. BY KRNE & B.LEWIS)",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 39,
+      "artist": "XAVIER OMAR ",
+      "title": "IF THIS IS LOVE",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 40,
+      "artist": "SIR ",
+      "title": "GO THERE",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 41,
+      "artist": "MAC MILLER FT. ANDERSON PAAK ",
+      "title": "DANG",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 42,
+      "artist": "FULL CRATE ",
+      "title": "SPECIAL",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 43,
+      "artist": "JOE HERTZ ",
+      "title": "ORBITS",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 44,
+      "artist": "MIDAS HUTCH ",
+      "title": "I'M NOT THE ONE",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 45,
+      "artist": "KAYTRANADA FT. SYD ",
+      "title": "YOU'RE THE ONE",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 46,
+      "artist": "LANDR FT. MLD ",
+      "title": "LIKE I LOVE YOU (VANDALIZED EDIT)",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 47,
+      "artist": "KINGDOM FT. SYD ",
+      "title": "NOTHIN",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 48,
+      "artist": "SAM GELLAITRY ",
+      "title": "DESERT MIRAGE",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 49,
+      "artist": "JI-GG-Y ",
+      "title": "TOKYO DRIFT",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 50,
+      "artist": "MR. CARMACK ",
+      "title": "LOW END THEORY LA",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 51,
+      "artist": "MR. CARMACK ",
+      "title": "BIOTRUTH",
+      "session": "SOSUPERSAM’s Interview + Session"
+    },
+    {
+      "number": 52,
+      "artist": "LOL BOYS ",
+      "title": "CHANGES (GRANT REMIX)",
+      "session": "SOSUPERSAM’s Interview + Session"
+    }
   ],
   "number": 289,
   "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-289-ft-sosupersam",
@@ -9,5 +320,9 @@
   "download_url": "https://api.soundcloud.com/tracks/298288826/download",
   "waveform_url": "https://w1.sndcdn.com/clgxPN5Gb1lr_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/298288826/stream",
-  "tracklist_url": "http://coming soon"
+  "tracklist_url": "http://bit.ly/Show289Playlist",
+  "sessions": [
+    "Joe Kay’s Session",
+    "SOSUPERSAM’s Interview + Session"
+  ]
 }
