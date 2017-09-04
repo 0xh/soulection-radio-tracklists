@@ -1,0 +1,15 @@
+{
+  "name": "soulection-v1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kylewelsby/soulection-radio-tracklists.git",
+  "author": "Kyle Welsby <kyle@mekyle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "jsonfile": "^3.0.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "ulid": "^0.2.0"
+  }
+}
