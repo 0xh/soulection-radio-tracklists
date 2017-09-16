@@ -1,7 +1,516 @@
 {
   "date": null,
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": "Ian Ewing ",
+      "title": "new place",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "BABE ",
+      "title": "BAD MEMORY",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Ordnry Yngstr ",
+      "title": "Haze.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "J. Robb ",
+      "title": "body party (j.robb remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "J. Robb ",
+      "title": "static savage",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "J. Robb ",
+      "title": "443",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Desiigner ",
+      "title": "Outlet",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Dirty ",
+      "title": "Hit Da Floe",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Edyth ",
+      "title": "Àgua Verde",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "AbJo ",
+      "title": "G Thang (Dr. Dre Sample Flip)",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Austin Lebrón ",
+      "title": "Ritmo de Amor",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Tommy Butler ",
+      "title": "Prison Song",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Sudan Archives ",
+      "title": "Come Meh Way",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Smith Comma John ",
+      "title": "OUTSTRUMENTALIST",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "VACATIONS ",
+      "title": "Lover's Smoke",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Gundam ",
+      "title": "Pimps",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Kano Mic Check 1",
+      "title": null,
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Mala ",
+      "title": "Changes",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Ase Manual + Bass Bear ",
+      "title": "Work 2050",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Joyce Wrice ",
+      "title": "good morning (j.robb remix)",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "2Pac ",
+      "title": "Temptations (Instrumental)",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "AbJo ",
+      "title": "Drum & Freak (Lauryn Vocal Flip), featuring JR Jarris, Ace, and Arturo",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Maleek Berry ",
+      "title": "Kontrol",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "VHOOR",
+      "title": "Amanhecer",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Okzharp ",
+      "title": "Dear Ribane feat Manthe",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "J.Robb & Tregs ",
+      "title": "Deep Inside",
+      "session": "Andre Power’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "VRSYJNES ",
+      "title": "500K",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 28,
+      "artist": "Sango ",
+      "title": "Pra Nós",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 29,
+      "artist": "TEKDOTLUN ",
+      "title": "Tor",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 30,
+      "artist": "VHOOR ",
+      "title": "Anoitecer",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 31,
+      "artist": "T/\\P ",
+      "title": "Fim de Tarde em Copa",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 32,
+      "artist": "mOma+Guy ",
+      "title": "Rain Drop",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 33,
+      "artist": "SKI MASK THE SLUMP GOD ",
+      "title": "Wheres The Blow! ft LILPUMP Prod.Dj Patt",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 34,
+      "artist": "Night Lovell ",
+      "title": "Boy Red",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 35,
+      "artist": "Rango ",
+      "title": "006",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 36,
+      "artist": "KAEMP ",
+      "title": "money",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 37,
+      "artist": "THEY ",
+      "title": "U Rite",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 38,
+      "artist": "Λ.J ",
+      "title": "Hotel Room",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 39,
+      "artist": "Champion ",
+      "title": "Lighter",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 40,
+      "artist": "Kingdom ",
+      "title": "Stalker Ha",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 41,
+      "artist": "Daryl Hall & John Oates ",
+      "title": "I Can't Go For That (Kojack Baile Edit)",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 42,
+      "artist": "DJ Sega ",
+      "title": "Biggie Themedirty",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 43,
+      "artist": "Chris Dogzout - Chris Dogzout & Fifty Hertz ",
+      "title": "Like I Do (Feat. Justin Timberlake)",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 44,
+      "artist": "VHOOR ",
+      "title": "SAUDADE",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 45,
+      "artist": "Dj Tray Remix ",
+      "title": "Steelo",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 46,
+      "artist": "J.Robb ",
+      "title": "Down",
+      "session": "Kronika’s Set"
+    },
+    {
+      "number": 47,
+      "artist": "Missy Elliot ",
+      "title": "Friendly Skies",
+      "session": "Montylov’s Set"
+    },
+    {
+      "number": 48,
+      "artist": "Iman Omari ",
+      "title": "Energy",
+      "session": "Montylov’s Set"
+    },
+    {
+      "number": 49,
+      "artist": "Birthday Boy ",
+      "title": "Storm",
+      "session": "Montylov’s Set"
+    },
+    {
+      "number": 50,
+      "artist": "Kaytranada ",
+      "title": "Bullets",
+      "session": "Montylov’s Set"
+    },
+    {
+      "number": 51,
+      "artist": "Justin Timberlake ",
+      "title": "Senorita",
+      "session": "Montylov’s Set"
+    },
+    {
+      "number": 52,
+      "artist": "Snoop Dogg ",
+      "title": "Beautiful",
+      "session": "Montylov’s Set"
+    },
+    {
+      "number": 53,
+      "artist": "Kanye West ",
+      "title": "Touch The Sky",
+      "session": "Montylov’s Set"
+    },
+    {
+      "number": 54,
+      "artist": "The Game ",
+      "title": "Hate It Or Love It",
+      "session": "Montylov’s Set"
+    },
+    {
+      "number": 55,
+      "artist": "Tame Impala ",
+      "title": "The Less I Know The Better",
+      "session": "Montylov’s Set"
+    },
+    {
+      "number": 56,
+      "artist": "Miguel ",
+      "title": "Waves (Tame Impala Remix)",
+      "session": "Montylov’s Set"
+    },
+    {
+      "number": 57,
+      "artist": "CANCREJO - MISSY ",
+      "title": "ONE MINUTE CANCREJO",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 58,
+      "artist": "Syd ",
+      "title": "All About Me",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 59,
+      "artist": "Gold Haze ",
+      "title": "Return Of The Mack (episode 011) [prod by Gold Haze]",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 60,
+      "artist": "Trackademicks - Aaliyah",
+      "title": "\"4 Page Letter\" (Trackademicks Remix)",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 61,
+      "artist": "Nick Pacoli ",
+      "title": "Miguel Sings SZA",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 62,
+      "artist": "baccyard ",
+      "title": "portland (rmx)",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 63,
+      "artist": "baccyard ",
+      "title": "FaceGetChoppedAwff",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 64,
+      "artist": "j.robb ",
+      "title": "YODAK BELLOW",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 65,
+      "artist": "south ",
+      "title": "what goes around refix",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 66,
+      "artist": "south - slow jamz (south re",
+      "title": null,
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 67,
+      "artist": "SWV ",
+      "title": "Rain (Two Fresh Remix)",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 68,
+      "artist": "Vacations ",
+      "title": "Lover's Smoke",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 69,
+      "artist": "Ticklish ",
+      "title": "You Know You Got Me Reboot",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 70,
+      "artist": "112 ",
+      "title": "U Already Know",
+      "session": "Sahar Habibi’s Set"
+    },
+    {
+      "number": 71,
+      "artist": "donmayor - starro & kyle dion ",
+      "title": "time off (mayor bootleg)",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 72,
+      "artist": "Alicia Keys ",
+      "title": "Feeling U, Feeling Me (Interlude)",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 73,
+      "artist": "The Stylistics ",
+      "title": "Maybe It's Love This Time",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 74,
+      "artist": "foisey. ",
+      "title": "Savings.",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 75,
+      "artist": "Dilip, Callahan, Cluless ",
+      "title": "Day // Night",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 76,
+      "artist": "Sango ",
+      "title": "Going Wrong",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 77,
+      "artist": "Overdoz ",
+      "title": "Lauren London",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 78,
+      "artist": "Martin J. Ballou ",
+      "title": "Empty Bottles (Feat. RNDYSVGE)",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 79,
+      "artist": "Monte Booker ",
+      "title": "RADIO thots 2013",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 80,
+      "artist": "quickly quickly ",
+      "title": "hushed",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 81,
+      "artist": "Iman Omari ",
+      "title": "Addicted [Flip]",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 82,
+      "artist": "wntr ",
+      "title": "go away",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 83,
+      "artist": "Rich Kidd ",
+      "title": "Comeback Season",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 84,
+      "artist": "Munchi ",
+      "title": "Pa Lo Under",
+      "session": "Andres’s Set"
+    },
+    {
+      "number": 85,
+      "artist": "Cheo Feliciano ",
+      "title": "Busca Lo Tuyo",
+      "session": "Andres’s Set"
+    }
   ],
   "number": 322,
   "listen_url": "http://soundcloud.com/soulection/show-322-ft-andre-power-kronika-andres-uribe-sahar-habibi-monty-lov",
@@ -9,5 +518,13 @@
   "download_url": "https://api.soundcloud.com/tracks/338484622/download",
   "waveform_url": "https://w1.sndcdn.com/zU03pmHVm5N7_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/338484622/stream",
-  "tracklist_url": "http://coming soon"
+  "tracklist_url": "http://bit.ly/Show322TrackList",
+  "sessions": [
+    "Joe Kay’s Session",
+    "Andre Power’s Session",
+    "Kronika’s Set",
+    "Montylov’s Set",
+    "Sahar Habibi’s Set",
+    "Andres’s Set"
+  ]
 }

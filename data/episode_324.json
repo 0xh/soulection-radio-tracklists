@@ -1,7 +1,270 @@
 {
   "date": null,
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": "dpat ",
+      "title": "unreleased 01",
+      "session": null
+    },
+    {
+      "number": 2,
+      "artist": "dpat ",
+      "title": "unreleased 02",
+      "session": null
+    },
+    {
+      "number": 3,
+      "artist": "dpat ",
+      "title": "unreleased 03",
+      "session": null
+    },
+    {
+      "number": 4,
+      "artist": "dpat ",
+      "title": "unreleased 04",
+      "session": null
+    },
+    {
+      "number": 5,
+      "artist": "dpat ",
+      "title": "unreleased 05",
+      "session": null
+    },
+    {
+      "number": 6,
+      "artist": "dpat ",
+      "title": "unreleased 06",
+      "session": null
+    },
+    {
+      "number": 7,
+      "artist": "dpat ",
+      "title": "unreleased 07",
+      "session": null
+    },
+    {
+      "number": 8,
+      "artist": "dpat ",
+      "title": "unreleased 08",
+      "session": null
+    },
+    {
+      "number": 9,
+      "artist": "atu ",
+      "title": "unreleased 01",
+      "session": null
+    },
+    {
+      "number": 10,
+      "artist": "atu ",
+      "title": "unreleased 02",
+      "session": null
+    },
+    {
+      "number": 11,
+      "artist": "atu ",
+      "title": "unreleased 03",
+      "session": null
+    },
+    {
+      "number": 12,
+      "artist": "atu ",
+      "title": "unreleased 04",
+      "session": null
+    },
+    {
+      "number": 13,
+      "artist": "atu ",
+      "title": "unreleased 05",
+      "session": null
+    },
+    {
+      "number": 14,
+      "artist": "atu ",
+      "title": "unreleased 06",
+      "session": null
+    },
+    {
+      "number": 15,
+      "artist": "atu ",
+      "title": "unreleased 07",
+      "session": null
+    },
+    {
+      "number": 16,
+      "artist": "atu ",
+      "title": "unreleased 08",
+      "session": null
+    },
+    {
+      "number": 17,
+      "artist": "atu ",
+      "title": "unreleased 09",
+      "session": null
+    },
+    {
+      "number": 18,
+      "artist": "sonder ",
+      "title": "sirens [radio edit]",
+      "session": null
+    },
+    {
+      "number": 19,
+      "artist": "sonder ",
+      "title": "lovely [radio edit]",
+      "session": null
+    },
+    {
+      "number": 20,
+      "artist": "sonder ",
+      "title": "searchin [demo]",
+      "session": null
+    },
+    {
+      "number": 21,
+      "artist": "sonder ",
+      "title": "baldwin park",
+      "session": null
+    },
+    {
+      "number": 22,
+      "artist": "amber ",
+      "title": "one unread",
+      "session": null
+    },
+    {
+      "number": 23,
+      "artist": "sonder ",
+      "title": "feel",
+      "session": null
+    },
+    {
+      "number": 24,
+      "artist": "sonder ",
+      "title": "morning rain [demo]",
+      "session": null
+    },
+    {
+      "number": 25,
+      "artist": "sonder ",
+      "title": "no need [radio edit]",
+      "session": null
+    },
+    {
+      "number": 26,
+      "artist": "sonder ",
+      "title": "worry [piano edit]",
+      "session": null
+    },
+    {
+      "number": 27,
+      "artist": "sonder ",
+      "title": "one night only",
+      "session": null
+    },
+    {
+      "number": 28,
+      "artist": "sonder ",
+      "title": "too fast [video version]",
+      "session": null
+    },
+    {
+      "number": 29,
+      "artist": "timbaland ",
+      "title": "birthday (ft. static)",
+      "session": null
+    },
+    {
+      "number": 30,
+      "artist": "lauryn hill - ex",
+      "title": null,
+      "session": null
+    },
+    {
+      "number": 31,
+      "artist": "112 ",
+      "title": "come see me",
+      "session": null
+    },
+    {
+      "number": 32,
+      "artist": "missy ",
+      "title": "the rain",
+      "session": null
+    },
+    {
+      "number": 33,
+      "artist": "usher ",
+      "title": "you make me wanna",
+      "session": null
+    },
+    {
+      "number": 34,
+      "artist": "swv ",
+      "title": "can we",
+      "session": null
+    },
+    {
+      "number": 35,
+      "artist": "sade ",
+      "title": "every word",
+      "session": null
+    },
+    {
+      "number": 36,
+      "artist": "michael jackson ",
+      "title": "loving you [original demo]",
+      "session": null
+    },
+    {
+      "number": 37,
+      "artist": "radiohead ",
+      "title": "present tense",
+      "session": null
+    },
+    {
+      "number": 38,
+      "artist": "sade ",
+      "title": "kiss of life",
+      "session": null
+    },
+    {
+      "number": 39,
+      "artist": "keren ann ",
+      "title": "l’illusionniste",
+      "session": null
+    },
+    {
+      "number": 40,
+      "artist": "marijata ",
+      "title": "i walk alone",
+      "session": null
+    },
+    {
+      "number": 41,
+      "artist": "george benson ",
+      "title": "el mar",
+      "session": null
+    },
+    {
+      "number": 42,
+      "artist": "childish gambino ",
+      "title": "urn",
+      "session": null
+    },
+    {
+      "number": 43,
+      "artist": "yellow days ",
+      "title": "gap in the clouds",
+      "session": null
+    },
+    {
+      "number": 44,
+      "artist": "boyz ii men ",
+      "title": "can you stand the rain",
+      "session": null
+    }
   ],
   "number": 324,
   "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-324-ft-sonder",
@@ -9,5 +272,8 @@
   "download_url": "https://api.soundcloud.com/tracks/340496382/download",
   "waveform_url": "https://w1.sndcdn.com/3IcbR9gjYXuc_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/340496382/stream",
-  "tracklist_url": "http://coming soon"
+  "tracklist_url": "http://bit.ly/Show324TrackList",
+  "sessions": [
+
+  ]
 }
