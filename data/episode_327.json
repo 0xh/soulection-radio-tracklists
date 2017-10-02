@@ -1,7 +1,348 @@
 {
-  "date": null,
+  "date": "2017-09-16",
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": "MXXWLL ",
+      "title": "Lifted",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "MXXWLL ",
+      "title": "Throwback",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "HXNS ",
+      "title": "sunday, aug 27",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "Tone Jonez ",
+      "title": "Saturday Night Vibez 2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "KDaGreat ",
+      "title": "Still Here",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "MXXWLL ",
+      "title": "Throwback",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Tone Jonez ",
+      "title": "Trapped In A Minor",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "sen 09 ",
+      "title": "STAY",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "KDaGreat - Free Beat",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "flying lotus ",
+      "title": "until the quiet comes (adeoson remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "MAC AYRES ",
+      "title": "next to you",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "MXXWLL ",
+      "title": "Jams (feat. Sodtp)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "TUAMIE ",
+      "title": "the timing was off",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "[w] ",
+      "title": "/imˈpreSHən/",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Nasaya ",
+      "title": "Milk (feat. Myra)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Justin Timberlake ",
+      "title": "Cry Me A River (Kaytranada Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "cay caleb. ",
+      "title": "love of my life (heavier edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "elkid ",
+      "title": "Soul!",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Freeway ",
+      "title": "What We Do",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Jay-Z ",
+      "title": "Show Me What You Got (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "PressureBeats. ",
+      "title": "L e s s o n s",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "MXXWLL ",
+      "title": "Rooftops",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "MXXWLL ",
+      "title": "Swish",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "NIBZMUSIC☥ ",
+      "title": "808 Slide Mania",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Thrill Beatzz ",
+      "title": "Selfie Prod By Thrill Beatzz",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "KDaGreat ",
+      "title": "Mirrors",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "Lil Uzi Vert ",
+      "title": "For Real",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Jay-Z ",
+      "title": "Big Pimpin ft. UGK (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Jeremih ",
+      "title": "Czech Republic",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "MXXWLL ",
+      "title": "One for the Road",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "JLL ",
+      "title": "BB flip",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "KDaGreat ",
+      "title": "Lies",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "SOS DYNAMIKZ ",
+      "title": "Inner Thoughts",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Joseph L'Étranger ",
+      "title": "pressureDemo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Mr. Carmack ",
+      "title": "blipswitch",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "Unknown ",
+      "title": "outfluence",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "J Dilla ",
+      "title": "Body Movin'",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "MXXWLL ",
+      "title": "Long Flights",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "recipe. ",
+      "title": "kiwi",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "Skepta x Bassbear!! x Swisha Sweet ",
+      "title": "take Nasty",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "SAVON ",
+      "title": "Glow (Savon Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "CHE ",
+      "title": "DROP",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "Aaliyah ",
+      "title": "Hot Like Fire ( Remix )",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "Ja Rule ft. Ashanti ",
+      "title": "Down 4 U",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "ZAPP - ZAPP ",
+      "title": "Computer Love",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "MXXWLL ",
+      "title": "Pool Parties",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 47,
+      "artist": ". jonny . ",
+      "title": ". in time .",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "Bitty McLean ",
+      "title": "Walk Away from Love",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 49,
+      "artist": "laxcity ",
+      "title": "Your own Company",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": ". jonny . ",
+      "title": ". kaleidoscope .",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Deverano ",
+      "title": "Mírame",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 52,
+      "artist": "Austin Lebrón - Jomero ",
+      "title": "Casa Colón",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 53,
+      "artist": "adeoson's secrets ",
+      "title": "KAYTRASHIT",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 54,
+      "artist": "Promnite ",
+      "title": "Love i need",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 55,
+      "artist": "s.charles ",
+      "title": "crime",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 56,
+      "artist": "La Musice - Feyde ",
+      "title": "When Is She Gonna Call / Tea Party",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 57,
+      "artist": "NJO ILLA N ",
+      "title": "Liquid Soft",
+      "session": "Joe Kay’s Session"
+    }
   ],
   "number": 327,
   "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-327-live-from-johannesburg-south-africa",
@@ -9,5 +350,8 @@
   "download_url": "https://api.soundcloud.com/tracks/343593544/download",
   "waveform_url": "https://w1.sndcdn.com/IkXBRg2vhdSh_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/343593544/stream",
-  "tracklist_url": "http://coming soon"
+  "tracklist_url": "http://bit.ly/Show327TrackList",
+  "sessions": [
+    "Joe Kay’s Session"
+  ]
 }
