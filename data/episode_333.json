@@ -1,0 +1,406 @@
+{
+  "date": "2017-10-28",
+  "tracks": [
+    {
+      "number": 1,
+      "artist": "Krs. ",
+      "title": "RW_1",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Jarreau Vandal ",
+      "title": "CREW (VANDALIZED COVER)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Full Crate ",
+      "title": "Vogue (feat. Trinidad James & Bryn Christopher)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "Jarreau Vandal ",
+      "title": "Toyko Drift (edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Jarreau Vandal ",
+      "title": "GOOSEBUMPS EDIT (VANDALIZED Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "octbr ",
+      "title": "party girls",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Leo Kamil ",
+      "title": "6°",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "J.Robb ",
+      "title": "lil kim new york shit",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Mndsgn - i let it gooooo (asal hazel ",
+      "title": "usayudo flip)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Duncan Gerow ",
+      "title": "Erykah Badu + D'Angelo = Bag Lady",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Sam Gellaitry ",
+      "title": "Untitled ft. Connor Pearson (Demo)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "blake skowron ",
+      "title": "10pound",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "knapsack ",
+      "title": "BRAINFOREST",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Mr. Carmack ",
+      "title": "The Next Afternoon",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Afta-1 ",
+      "title": "Rain",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "duncan gerow - Erykah Badu + Hi",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "duncan gerow ",
+      "title": "Alicia Keys + J. Dilla = Girlfrien d",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Masego ",
+      "title": "Navajo (Meek&iLE Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "GUNDAM ",
+      "title": "Questions",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "south ",
+      "title": "pray4",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Sam Gellaitry x Connor Pearson ",
+      "title": "The Seems",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Vada & J.Robb ",
+      "title": "All the Time",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "SZA ",
+      "title": "TwoAM (K N X W N FLIP)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Nick Pacoli ",
+      "title": "Miguel Sings SZA",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Sango ",
+      "title": "Moki",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Sango ",
+      "title": "Wetin na wan",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "Brassroots - 110 Brassroots ",
+      "title": "Never Too Much",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "J.Robb ",
+      "title": "nothin but money",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "duncan gerow - Outkast vs Biggie ",
+      "title": "ATLiens",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "J.Robb ",
+      "title": "slow down",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "Shintaro & Uki ",
+      "title": "#grindin",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "DECAP - This or That (Drums That Knock Vol. 5 ",
+      "title": "Out Now!)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "JD. Reid ",
+      "title": "Rōshi (feat. D Double E)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "KKING KONG ",
+      "title": "UH BAILE",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Invader Spade ",
+      "title": "Jeans2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "duncan gerow ",
+      "title": "Craig David + Penthouse Penthouse = Fill Me In",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "monte booker ",
+      "title": "SILVER",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "Jacques ",
+      "title": "Dans La Radio (Canblaster, Ö & Jacques Remix)",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 39,
+      "artist": "FS Green ",
+      "title": "Aeroplanes",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 40,
+      "artist": "FS Green ",
+      "title": "[DB] Bahn",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 41,
+      "artist": "SirOJ ",
+      "title": "Burgundy Red",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 42,
+      "artist": "SirOJ ",
+      "title": "Trailerpark",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 43,
+      "artist": "Slum Village - Fall In Love (Hayzee's 8",
+      "title": null,
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 44,
+      "artist": "FS Green ",
+      "title": "Levels (Level I, II & III)",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 45,
+      "artist": "MXXWLL ",
+      "title": "Arcade Machines (Say My Name Vocal Edit)",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 46,
+      "artist": "Anderson .Paak ",
+      "title": "Come Down (FS Green & ROMderful Remix)",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 47,
+      "artist": "Calvin Harris ",
+      "title": "Slide (Bessy Remix)",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 48,
+      "artist": "RMX CRW ",
+      "title": "Turn Me On (Paquito Moniz Remix)",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 49,
+      "artist": "FS Green ",
+      "title": "Untitled #1",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 50,
+      "artist": "FS Green ",
+      "title": "A.L.T.",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 51,
+      "artist": "FS Green ",
+      "title": "Untitled #2",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 52,
+      "artist": "FS Green ",
+      "title": "Untitled #3",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 53,
+      "artist": "SirOJ ",
+      "title": "Traction Ft. Nelson Clark",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 54,
+      "artist": "Hoody ",
+      "title": "Like You",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 55,
+      "artist": "Midas Hutch ",
+      "title": "Another Man's House Ft. Mar",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 56,
+      "artist": "Midas Hutch ",
+      "title": "Out Of Business Ft. Maribelle",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 57,
+      "artist": "Rihanna ",
+      "title": "Sex With Me (Midas Hutch Remix)",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 58,
+      "artist": "TLC ",
+      "title": "Creep (Lido & FS Green Remix)",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 59,
+      "artist": "MC Hollywood ",
+      "title": "Sem Compromisso",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 60,
+      "artist": "SiK-K, pH-1 & Jay Park ",
+      "title": "iffy",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 61,
+      "artist": "FS Green ",
+      "title": "Untitled #4",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 62,
+      "artist": "FS Green ",
+      "title": "Asthma",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 63,
+      "artist": "FS Green ",
+      "title": "Untitled #5",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 64,
+      "artist": "Midas Hutch ",
+      "title": "Computer Love (Nas Vocal Edi t)",
+      "session": "FS Green’s Interview + Set"
+    },
+    {
+      "number": 65,
+      "artist": "Midas Hutch ",
+      "title": "Get Mine Ft. Shakka (Wantigga Remix)",
+      "session": "FS Green’s Interview + Set"
+    }
+  ],
+  "number": 333,
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-333-ft-fs-green",
+  "artwork_url": "https://i1.sndcdn.com/artworks-000250819711-6qvdzv-t500x500.jpg",
+  "download_url": "https://api.soundcloud.com/tracks/350650699/download",
+  "waveform_url": "https://w1.sndcdn.com/4jG4AKXikNYC_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/350650699/stream",
+  "tracklist_url": "http://bit.ly/Show333TrackList",
+  "sessions": [
+    "Joe Kay’s Session",
+    "FS Green’s Interview + Set"
+  ]
+}
