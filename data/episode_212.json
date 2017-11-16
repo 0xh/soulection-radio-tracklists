@@ -1,9 +1,9 @@
 {
   "date": "2015-05-31",
   "number": 212,
-  "listen_url": "https://soundcloud.com/soulection/soulection-radio-show-212-w-pyrmdplaza-1",
+  "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-212-w-pyrmdplaza-1",
   "artwork_url": "https://i1.sndcdn.com/artworks-000118764466-pqi6l7-t500x500.jpg",
-  "tracks":[
+  "tracks": [
     {
       "number": 1,
       "artist": "Burnier & Cartier",
@@ -418,5 +418,9 @@
       "title": "Love Loving You in 3/4",
       "session": "Joe Kay's Session"
     }
-  ]
+  ],
+  "download_url": null,
+  "waveform_url": "https://w1.sndcdn.com/5sy4BdTJI5Bj_m.png",
+  "stream_url": "https://api.soundcloud.com/tracks/208223266/stream",
+  "tracklist_url": ""
 }
