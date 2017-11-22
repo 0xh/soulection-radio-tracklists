@@ -15,8 +15,13 @@ class SoulectionRadioPlaylist
 
   def download
     client = SoundCloud.new(client_id: YOUR_CLIENT_ID)
-    playlist = client.get('/playlists/8025093')
+    playlist = client.get('/playlists/8025093', limit: 200)
+    playlist.tracks.each do |t|
+      puts t.title
+    end
     playlist.tracks.each do |track|
+      show_number = track.title.scan(/(?:Show #(\d+))/).first.first
+      create_or_update_artwork(show_number, track, '')
       track.description.scan(/(?:Show #(\d+)).*[tT]rack\s?[lL]ist:\s(.+)?/i) do |matches|
         show_number = matches[0]
         puts "Downloading ##{show_number}" unless already_downloaded?(show_number)
@@ -61,7 +66,10 @@ class SoulectionRadioPlaylist
     else
       json = {}
     end
+    release = [track.release_day, track.release_month, track.release_year].reverse.join('-')
+    p json['date'] = Date.new(track.release_year, track.release_month, track.release_day).to_date if track.release_day && json['date'].nil?
     json['date'] = nil unless json['date']
+    json['date'] = Date.parse(track.created_at).to_date if json['date'].nil?
     json['tracks'] = [] unless json['tracks']
     json['number'] = show_number.to_i
     json['listen_url'] = track.permalink_url

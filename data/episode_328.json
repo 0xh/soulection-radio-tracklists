@@ -3,363 +3,375 @@
   "tracks": [
     {
       "number": 1,
-      "artist": "Jay Em",
+      "artist": "Jay Em ",
       "title": "Got Me",
-      "session": "Evil Needle’s Session"
+      "session": "Joe Kay’ Session"
     },
     {
       "number": 2,
-      "artist": "La Soulchyld",
-      "title": "Kubyina w/ DKVPZ",
-      "session": "Evil Needle’s Session"
+      "artist": "Rody G x Don Mayor ",
+      "title": "It G Lit",
+      "session": "Joe Kay’ Session"
     },
     {
       "number": 3,
-      "artist": "Mark de Clive",
-      "title": "Fet Started (Full Crate Remix) [feat. Omar & Sheila E]",
-      "session": "Evil Needle’s Session"
+      "artist": "La Soulchyld ",
+      "title": "Kubyina w/ DKVPZ",
+      "session": "Joe Kay’ Session"
     },
     {
       "number": 4,
-      "artist": "Geotheory",
-      "title": "Get It In",
-      "session": "Evil Needle’s Session"
+      "artist": "Mark de Clive-Lowe ",
+      "title": "Get Started (feat Omar) (Full Crate Remix)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 5,
-      "artist": "DJ Afro",
-      "title": "Sunset In Davis Park (Is Brazil Overrated?)",
-      "session": "Evil Needle’s Session"
+      "artist": "Geotheory ",
+      "title": "Get It In",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 6,
-      "artist": "Steve Mill & Luke Fair",
-      "title": "Beaches (Peter Horrevorts Remix)",
-      "session": "Evil Needle’s Session"
+      "artist": "DJ Afro ",
+      "title": "Sunset In Davis Park",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 7,
-      "artist": "RADICAL KID",
-      "title": "Kingo",
-      "session": "Evil Needle’s Session"
+      "artist": "Steve Mill & Luke Fair ",
+      "title": "Beaches (Peter Horrevorts Remix)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 8,
-      "artist": "DKVPZ",
-      "title": "Deixa Ela Envolvida",
-      "session": "Evil Needle’s Session"
+      "artist": "Radical Kid ",
+      "title": "Kingo",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 9,
-      "artist": "C Y G N",
-      "title": "Inside Out",
-      "session": "Evil Needle’s Session"
+      "artist": "Sente ",
+      "title": "Toothless (feat. Serine Karthage & Alika)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 10,
-      "artist": "Sivey",
-      "title": "Waterbed (Slow Mo)",
-      "session": "Evil Needle’s Session"
+      "artist": "DKVPZ ",
+      "title": "Deixa Ela Envolvida",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 11,
-      "artist": "Evil Needle",
-      "title": "Move (feat. Mo Vibez)",
-      "session": "Evil Needle’s Session"
+      "artist": "CYGN ",
+      "title": "Inside Out",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 12,
-      "artist": "LMC",
-      "title": "Friday",
-      "session": "Evil Needle’s Session"
+      "artist": "Sivey - Waterbed Slow",
+      "title": null,
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 13,
-      "artist": "Herzeloyde",
-      "title": "All I Do (Baribal Flip)",
-      "session": "Evil Needle’s Session"
+      "artist": "Evil Needle ",
+      "title": "Paris (feat. Mo Vibez)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 14,
-      "artist": "Ciara",
-      "title": "Got Me Good (Evil Needle Remix)",
-      "session": "Evil Needle’s Session"
+      "artist": "LMC ",
+      "title": "Friday",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 15,
-      "artist": "Jordan Rakei",
-      "title": "Add the Bassline (Evil Needle Remix)",
-      "session": "Evil Needle’s Session"
+      "artist": "Herzeloyde ",
+      "title": "All I Do (Baribal Flip)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 16,
-      "artist": "Esta",
-      "title": "1738 (Evil Needle Remix)",
-      "session": "Evil Needle’s Session"
+      "artist": "Ciara ",
+      "title": "Got Me Good (Evil Needle Remix)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 17,
-      "artist": "NtrlTaste",
-      "title": "Who It Was (Tell Me)",
-      "session": "Evil Needle’s Session"
+      "artist": "Jordan Rakei ",
+      "title": "Add the Bassline (Evil Needle Remix)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 18,
-      "artist": "Evil Needle",
-      "title": "Spirit Walk",
-      "session": "Evil Needle’s Session"
+      "artist": "Esta ",
+      "title": "1738 (Evil Needle Remix)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 19,
-      "artist": "Graves x Oshi",
-      "title": "Sell Soul",
-      "session": "Evil Needle’s Session"
+      "artist": "NtrlTaste ",
+      "title": "Who it Was",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 20,
-      "artist": "Sui.luj",
-      "title": "Distressed",
-      "session": "Evil Needle’s Session"
+      "artist": "Evil Needle ",
+      "title": "Spirit Walk",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 21,
-      "artist": "NeguimBeats",
-      "title": "Reason",
-      "session": "Evil Needle’s Session"
+      "artist": "Graves x Oshi ",
+      "title": "Sell Soul",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 22,
-      "artist": "Ellzo",
-      "title": "Folktale",
-      "session": "Evil Needle’s Session"
+      "artist": "Sui.luj ",
+      "title": "Distressed",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 23,
-      "artist": "Tek.lun",
-      "title": "Elevate (feat. Gravez)",
-      "session": "Evil Needle’s Session"
+      "artist": "NeguimBeats ",
+      "title": "Reason",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 24,
-      "artist": "Lege Kale & Subtomik",
-      "title": "Cobra",
-      "session": "Evil Needle’s Session"
+      "artist": "Ellzo ",
+      "title": "Folktale",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 25,
-      "artist": "Evil Needle",
-      "title": "Euphoria",
-      "session": "Evil Needle’s Session"
+      "artist": "Tek.lun ",
+      "title": "Elevate (feat. Gravez)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 26,
-      "artist": "Evil Needle & KRNE",
-      "title": "Longing",
-      "session": "Evil Needle’s Session"
+      "artist": "Lege Kale & SubtomiK ",
+      "title": "Cobra",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 27,
-      "artist": "LUXE",
-      "title": "All Up On You (feat. Cesqeaux)",
-      "session": "Evil Needle’s Session"
+      "artist": "Evil Needle ",
+      "title": "Euphoria",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 28,
-      "artist": "Evil Needle & Sivey",
-      "title": "Lovegate",
-      "session": "Evil Needle’s Session"
+      "artist": "Evil Needle & KRNE ",
+      "title": "Longing",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 29,
-      "artist": "Atlantic Haze",
-      "title": "Reloaded",
-      "session": "Evil Needle’s Session"
+      "artist": "LUXE Feat. Cesqeaux ",
+      "title": "All Up On You",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 30,
-      "artist": "fzpz",
-      "title": "off to tokyo",
-      "session": "Evil Needle’s Session"
+      "artist": "Evil Needle & Sivey ",
+      "title": "Lovegate",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 31,
-      "artist": "Gravez",
-      "title": "Warn & Wave",
-      "session": "Evil Needle’s Session"
+      "artist": "Atlantic Haze ",
+      "title": "Reloaded",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 32,
-      "artist": "Dilip x Tibe",
-      "title": "Ventilate",
-      "session": "Evil Needle’s Session"
+      "artist": "Fzpz ",
+      "title": "Off to Tokyo",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 33,
-      "artist": "K, Le Maestro",
-      "title": "Dem Boyz on Crenshaw",
-      "session": "Evil Needle’s Session"
+      "artist": "Gravez ",
+      "title": "Warn & Wave",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 34,
-      "artist": "chromonicci.",
-      "title": "Finesse.",
-      "session": "Evil Needle’s Session"
+      "artist": "Dilip x Tibe ",
+      "title": "Ventilate",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 35,
-      "artist": "whereisalex",
-      "title": "Double Elephant",
-      "session": "Evil Needle’s Session"
+      "artist": "K, Le Maestro ",
+      "title": "Dem Boyz on Crenshaw",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 36,
-      "artist": "Losco",
-      "title": "Enough",
-      "session": "Evil Needle’s Session"
+      "artist": "Chromonicci ",
+      "title": "Finesse",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 37,
-      "artist": "Evil Needle & Sivey",
-      "title": "Constructive Interference",
-      "session": "Evil Needle’s Session"
+      "artist": "Whereisalex ",
+      "title": "Double Elephant",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 38,
-      "artist": "Rihanna x Evil Needle",
-      "title": "Pour It Up x Radiance (Duncan Gerow Mashup)",
-      "session": "Evil Needle’s Session"
+      "artist": "Losco ",
+      "title": "Enough",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 39,
-      "artist": "MORE//NIGHT",
-      "title": "OhOh",
-      "session": "Evil Needle’s Session"
+      "artist": "Evil Needle & Sivey ",
+      "title": "Constructive Interference",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 40,
-      "artist": "Belly",
-      "title": "Might Not (Sevnth Remix)",
-      "session": "Evil Needle’s Session"
+      "artist": "Rihanna - Pour It Up x Evil Needle ",
+      "title": "Radiance (Duncan Gerow Mashup)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 41,
-      "artist": "FRISCO",
-      "title": "123",
-      "session": "Evil Needle’s Session"
+      "artist": "MORE NIGHT ",
+      "title": "OhOh",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 42,
-      "artist": "Atlantic Haze",
-      "title": "Be the First",
-      "session": "Evil Needle’s Session"
+      "artist": "Belly ",
+      "title": "Might Not (Sevnth Remix)",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 43,
-      "artist": "Flosstradamus",
-      "title": "TTU (TroyBoi Remix)",
-      "session": "Evil Needle’s Session"
+      "artist": "Frisco ",
+      "title": "123",
+      "session": "Evil Needle’s Set"
     },
     {
       "number": 44,
-      "artist": "Evil Needle",
+      "artist": "Atlantic Haze ",
+      "title": "Be The First",
+      "session": "Evil Needle’s Set"
+    },
+    {
+      "number": 45,
+      "artist": "Flosstradamus ",
+      "title": "TTU (feat. Waka Flocka Flame) (TroyBoi Remix)",
+      "session": "Evil Needle’s Set"
+    },
+    {
+      "number": 46,
+      "artist": "Evil Needle ",
       "title": "Hakunetsu",
-      "session": "Evil Needle’s Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 47,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 01",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 48,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 02",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 49,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 03",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 50,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 04",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 51,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 05",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 52,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 06",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 53,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 07",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 54,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 08",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 55,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 09",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 56,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 10",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 57,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 11",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 58,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 12",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 59,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 13",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 60,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 14",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 61,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 15",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     },
     {
-      "number": 0,
-      "artist": "Melodiesinfonie",
+      "number": 62,
+      "artist": "Melodiesinfonie ",
       "title": "Untitled 16",
-      "session": "Melodiesinfonie's Session"
+      "session": "Evil Needle’s Set"
     }
   ],
   "number": 328,
@@ -368,5 +380,9 @@
   "download_url": "https://api.soundcloud.com/tracks/344628645/download",
   "waveform_url": "https://w1.sndcdn.com/79fd0gvZjAqY_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/344628645/stream",
-  "tracklist_url": "http://coming soon"
+  "tracklist_url": "http://bit.ly/Show328TrackList",
+  "sessions": [
+    "Joe Kay’ Session",
+    "Evil Needle’s Set"
+  ]
 }

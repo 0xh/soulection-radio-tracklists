@@ -1,7 +1,378 @@
 {
   "date": "2017-11-04",
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": null,
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "PAULO ",
+      "title": "Girl (Drumkit Vol 2)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "montell2099 ",
+      "title": "Luvin",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "duncan gerow - Pharrell & Snoop Dogg + J",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "JASON RICH ",
+      "title": "NEW BEGINNINGS",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "J.Robb ",
+      "title": "WhatUWantt (feat. DEJA & Ciscero)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "J.Robb ",
+      "title": "SZA",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "J.Robb ",
+      "title": "bowtye",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "J.Robb ",
+      "title": "swv2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Alicia Keys ",
+      "title": "So Simple",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Talib Kweli/Mos Def ",
+      "title": "Thieves In The Night",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Pretty Ricky ",
+      "title": "On the Hotline",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Unwrapped ",
+      "title": "I Know What You Want",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "J.Robb ",
+      "title": "TakeMee (feat. Devin Tracy)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Cultura Profética ",
+      "title": "Nadie Se Atreve",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "The Isley Brothers & Mos Def ",
+      "title": "Beauty In the Dark (Groove With You)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Linval Thompson ",
+      "title": "Look How Me Sexy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Mikey Dread ",
+      "title": "Positive Reality",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Mikey Dread ",
+      "title": "Rocky Road",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Leroy Smart ",
+      "title": "I Am the Don",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Brrd ",
+      "title": "Hail Di King",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "EKANY - Secret Gems ",
+      "title": "Mans Not Hot/The thing go",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Ty Dolla $ign ",
+      "title": "Stare (feat. Pharrell Williams & Wiz Khalifa)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Geode feat. Alicia Kiah ",
+      "title": "Ishikari",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "KAMI-O ",
+      "title": "BANG G3",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Anz ",
+      "title": "Loa",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "Digital Mozart ",
+      "title": "How About On Air (JD. Reid x Drake Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "J.Robb ",
+      "title": "GoodLovinn (feat. Devin Tracy)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Abdul Raoof, Bruno Speight, Roddy Smith & Unwrapped ",
+      "title": "Splash Waterfalls",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "K, Le Maestro ",
+      "title": "crank dat in the land of the rising sun",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "Dungeon Family ",
+      "title": "Rollin'",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Full Crate ",
+      "title": "Big Booty Problem (Jaël Remix)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 33,
+      "artist": "PRVDNT x JR Jarris ",
+      "title": "howdoyouwantit",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 34,
+      "artist": "Full Crate ",
+      "title": "Pump Up The Jam (Remix)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 35,
+      "artist": "J Hus ",
+      "title": "Did You See (Vandalized Edit)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 36,
+      "artist": "Ryan Leslie ",
+      "title": "Addicted (Vandalized Edit) [W/ Acapella]",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 37,
+      "artist": "Samba Squad ",
+      "title": "Xango",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 38,
+      "artist": "Velha Guarda Da Portela ",
+      "title": "Vocé Me Abandonou",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 39,
+      "artist": "Sergio Mendes ",
+      "title": "Magalenha (Jaël Remix)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 40,
+      "artist": "ANKA ",
+      "title": "FOGO",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 41,
+      "artist": "Corona ",
+      "title": "Rhythm Of The Night (Jaël’s Jakarta Remix)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 42,
+      "artist": "UNKNOWN ",
+      "title": "UNKNOWN",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 43,
+      "artist": "Full Crate ",
+      "title": "Yeah (Jaël VIP Remix)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 44,
+      "artist": "TroyBoi ",
+      "title": "Wallz",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 45,
+      "artist": "Smooth Operator 3000 ",
+      "title": "La Malanga",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 46,
+      "artist": "Keenan Matthias ",
+      "title": "SKRR SKRRRR",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 47,
+      "artist": "Masters At Work ",
+      "title": "Work (Paquito's Flip)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 48,
+      "artist": "Kelis ",
+      "title": "Milkshake (Vandalized Edit)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 49,
+      "artist": "Tim Deluxe ",
+      "title": "Just Won’t Do (Jaël VIP Edit)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 50,
+      "artist": "DJ Cable ",
+      "title": "Justified",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 51,
+      "artist": "Migos ",
+      "title": "Bad & Boujee (Jaël’s Tentacion Edit)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 52,
+      "artist": "Jarreau Vandal ",
+      "title": "Saturday Love (Jaël Remix)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 53,
+      "artist": null,
+      "title": null,
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 54,
+      "artist": null,
+      "title": null,
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 55,
+      "artist": null,
+      "title": null,
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 56,
+      "artist": null,
+      "title": null,
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 57,
+      "artist": "Bryson Tiller ",
+      "title": "Exchange (Midas Hutch Remix)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 58,
+      "artist": "Mura Masa ",
+      "title": "Lovesick Fuck",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 59,
+      "artist": "DAGGER DX ",
+      "title": "Cant Zapp It (Edit)",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 60,
+      "artist": "Romderful ",
+      "title": "Sweet",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 61,
+      "artist": "Oshi ",
+      "title": "Pope W/ Deffie, Jr Jarris & Sober Rob",
+      "session": "Jaël’s Interview + Session"
+    },
+    {
+      "number": 62,
+      "artist": "Lingerie & Candlewax (Gabriel Garzón-Montano G",
+      "title": null,
+      "session": "Jaël’s Interview + Session"
+    }
   ],
   "number": 334,
   "listen_url": "http://soundcloud.com/soulection/soulection-show-334-ft-jael",
@@ -9,5 +380,9 @@
   "download_url": "https://api.soundcloud.com/tracks/354048815/download",
   "waveform_url": "https://w1.sndcdn.com/d52UKgtcG3cl_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/354048815/stream",
-  "tracklist_url": "http://coming soon"
+  "tracklist_url": "http://bit.ly/Show334TrackList",
+  "sessions": [
+    "Joe Kay’s Session",
+    "Jaël’s Interview + Session"
+  ]
 }

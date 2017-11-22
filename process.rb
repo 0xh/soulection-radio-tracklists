@@ -17,6 +17,7 @@ class ProcessFiles
 
   def parse(file)
     show_number = file.scan(/\d+/).first
+    return if show_number < 320
     filename = File.join('data',"episode_#{show_number}.json")
     if File.exists?(filename)
       json = JSON.parse(File.read(filename))

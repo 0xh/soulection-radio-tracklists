@@ -3,6 +3,7 @@ GEM
   specs:
     Ascii85 (1.0.2)
     afm (0.2.2)
+    down (4.1.0)
     hashery (2.1.2)
     hashie (3.4.6)
     httmultiparty (0.3.16)
@@ -12,6 +13,8 @@ GEM
     httparty (0.14.0)
       multi_xml (>= 0.5.2)
     mimemagic (0.3.2)
+    mp3info (0.8.5)
+      ruby-mp3info (>= 0.8.5)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     open_uri_redirections (0.2.1)
@@ -21,19 +24,28 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
+    ruby-mp3info (0.8.10)
     ruby-rc4 (0.1.5)
     soundcloud (0.3.4)
       hashie
       httmultiparty (~> 0.3.0)
+    sysrandom (1.0.4)
+    taglib-ruby (0.7.1)
     ttfunk (1.4.0)
+    ulid (0.1.0)
+      sysrandom (>= 1.0.0, < 2.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  down
+  mp3info
   open_uri_redirections
   pdf-reader
   soundcloud
+  taglib-ruby
+  ulid
 
 BUNDLED WITH
-   1.13.6
+   1.15.3

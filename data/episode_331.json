@@ -1,7 +1,258 @@
 {
   "date": "2017-10-14",
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": "monte booker ",
+      "title": "SILVER",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "DKVPZ ",
+      "title": "Chose One",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "roto ",
+      "title": "When you feel it youll know",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "ICC∆RUS ",
+      "title": "bitch don't kill my vibe",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Playa ",
+      "title": "Cheers 2 U (instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Carlos do Complexo ",
+      "title": "Engenho da Rainha (alt)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "jmac ",
+      "title": "SoICreep",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "PND ",
+      "title": "Come And See Me (Hasan Insane Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "paperboyfabe ",
+      "title": "Language Ft Brent Faiyaz",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "AbJo ",
+      "title": "Hai Yah",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "DJ Panic City vs. Timbaland ",
+      "title": "Carry Out Senorita",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "AbJo, PRVDNT & JR Jarris ",
+      "title": "BlessU",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "NOT DON MAYOR ",
+      "title": "yo, excuse me miss (mayor edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "s i e n ",
+      "title": "ｒｕｄｅ ｂｏｙ",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Ta-ku ",
+      "title": "Talk Less",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Gil Scot-Heron Brian Jackson - The Bottle (NxWorries ",
+      "title": "Suede)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "One Way feat. Al Hudson ",
+      "title": "Music (The Revenge rework)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Vaskular & Valesuchi ",
+      "title": "Black Jesus",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "None - JLZ ",
+      "title": "Aquele dia (brent faiyaz)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Timbaland ",
+      "title": "John Blaze ft. Missy Elliot & Aaliyah",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "duncan gerow ",
+      "title": "Ginuwine + Jermaine Dupri = In Those Jeans",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "duncan gerow - Jay",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Timbaland & Magoo ",
+      "title": "Joy (feat. Ginuwine & Playa)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Timbaland ",
+      "title": "Fat Rabbit ft. Ludacris",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "YoungBloodZ ",
+      "title": "85 / Billy Dee Interlude",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "thirstybeats ",
+      "title": "U make me",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "6th Sense ",
+      "title": "On & On She Said",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Static Major ",
+      "title": "Private Number",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Playa ",
+      "title": "I'll Be 2 C U",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "Babyface ",
+      "title": "When Can I See You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "B.J. the Chicago Kid ",
+      "title": "Turnin' Me Up (Acoustic)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Musiq Soulchild ",
+      "title": "Half Crazy (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "Brent Faiyaz ",
+      "title": "Insecure",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Brent Faiyaz ",
+      "title": "Allure",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": null,
+      "title": null,
+      "session": "Brent Faiyaz’s Session + Interview"
+    },
+    {
+      "number": 36,
+      "artist": "Brent Faiyaz ",
+      "title": "Talk 2 U",
+      "session": "Brent Faiyaz’s Session + Interview"
+    },
+    {
+      "number": 37,
+      "artist": "Brent Faiyaz ",
+      "title": "Natural Release",
+      "session": "Brent Faiyaz’s Session + Interview"
+    },
+    {
+      "number": 38,
+      "artist": "D’Angelo ",
+      "title": "Spanish Joint",
+      "session": "Brent Faiyaz’s Session + Interview"
+    },
+    {
+      "number": 39,
+      "artist": "Tracey Chapman ",
+      "title": "Fast Car",
+      "session": "Brent Faiyaz’s Session + Interview"
+    },
+    {
+      "number": 40,
+      "artist": null,
+      "title": null,
+      "session": "Brent Faiyaz’s Session + Interview"
+    },
+    {
+      "number": 41,
+      "artist": "Jeff Buckley ",
+      "title": "Grace",
+      "session": "Brent Faiyaz’s Session + Interview"
+    },
+    {
+      "number": 42,
+      "artist": "Radiohead ",
+      "title": "Present Tense",
+      "session": "Brent Faiyaz’s Session + Interview"
+    }
   ],
   "number": 331,
   "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-331-ft-brent-faiyaz",
@@ -9,5 +260,9 @@
   "download_url": "https://api.soundcloud.com/tracks/347910362/download",
   "waveform_url": "https://w1.sndcdn.com/mMtO9DQTcJNv_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/347910362/stream",
-  "tracklist_url": "http://coming soon"
+  "tracklist_url": "http://bit.ly/Show331TrackList",
+  "sessions": [
+    "Joe Kay’s Session",
+    "Brent Faiyaz’s Session + Interview"
+  ]
 }
