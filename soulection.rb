@@ -21,6 +21,7 @@ class SoulectionRadioPlaylist
     end
     playlist.tracks.each do |track|
       show_number = track.title.scan(/(?:Show #(\d+))/).first.first
+      next if show_number.to_i < 330
       create_or_update_artwork(show_number, track, '')
       track.description.scan(/(?:Show #(\d+)).*[tT]rack\s?[lL]ist:\s(.+)?/i) do |matches|
         show_number = matches[0]

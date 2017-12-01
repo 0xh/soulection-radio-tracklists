@@ -1,7 +1,312 @@
 {
-  "date": "2017-11-24",
+  "date": "2017-11-18",
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": "Meraki Soul ",
+      "title": "light a candle",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "Ticklish ",
+      "title": "You Got Me (Ticklish Reboot)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "kali uchis ",
+      "title": "tyrant (j.robb jungle edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "j.robb ",
+      "title": "maad smoke",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "keens ",
+      "title": "migos in tokyo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Escapism Refuge ",
+      "title": "Fix It",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "SWARVY ",
+      "title": "jukin[Loop]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Chon ",
+      "title": "Nayhoo (feat. Masego & Lophiile)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Sango - Goldlink ",
+      "title": "Crew (Black Suede Sango Mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Sango - Goldlink ",
+      "title": "Crew (Sango Pink Fur Sango Mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Sango - Goldlink ",
+      "title": "Crew (Red Satin Sango Mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Sango - Goldlink ",
+      "title": "Crew (Blue Demin Sango Mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Deborah Cox ",
+      "title": "It's over now (Annie Starlight RMX)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "Elhae ",
+      "title": "Drive Me Crazy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Jawn Jawn ",
+      "title": "'Exchange' (Midas Hutch Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Dawn Penn ",
+      "title": "You Don't Love Me (No No No)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Kings ",
+      "title": "Someday",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "SAVON ",
+      "title": "Wat U On",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "CHE ",
+      "title": "Thii",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Marco McKinnis ",
+      "title": "Middle Of The Party",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Jellyfish ",
+      "title": "netflix & jelly (netflix & dusse flip)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "thundercat x badu ",
+      "title": "Untitled (Joe Kay’s Slowed Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "eu-know ",
+      "title": "Open",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "LAKIM - whendoe ",
+      "title": "shoppa",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": null,
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Erykah Badu ",
+      "title": "A Child with the Blues (feat. Terence Blanchard)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "Meraki Soul ",
+      "title": "Takes 2 [Beat] (unfinished)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Meraki Soul ",
+      "title": "Let me ride [U down 4 it?] (instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Meraki Soul ",
+      "title": "WantFromMe (unfinished)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "Meraki Soul ",
+      "title": "Wait She Loves Me Too (instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "Meraki Soul ",
+      "title": "KUIYO GUITAR.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Meraki Soul ",
+      "title": "is it like that girl",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "zach farache ",
+      "title": "sunflower",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Sángo ",
+      "title": "Don't Love You Like I Do",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Sanchez ",
+      "title": "One In a Million",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "SWARVY ",
+      "title": "devilspie",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "MORE // NIGHT ",
+      "title": "Lisa's Birthday",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "N*E*R*D ",
+      "title": "Run to the Sun/Stay Together (Live)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "Justin Timberlake ",
+      "title": "I'm Lovin' It",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "PRVDNT ",
+      "title": "How Do U Want It w/ JR Jarris",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "Elhae ",
+      "title": "L. A. N. (Jeftuz Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "silo ",
+      "title": "see you around",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "K, Le Maestro ",
+      "title": "shawty (alt. mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "Sam Gellaitry ",
+      "title": "de ja vu take",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "Gwen Stefani ",
+      "title": "Wind It Up (The Neptunes Mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "VHOOR ",
+      "title": "CULTURE",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 47,
+      "artist": "KMB ",
+      "title": "big band",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "KMB ",
+      "title": "sunset",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 49,
+      "artist": "KMB ",
+      "title": "Realeza",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "Talib Kweli ",
+      "title": "Traveling Light (feat. Anderson .Paak)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Linval Thompson ",
+      "title": "I Love Marijuana",
+      "session": "Joe Kay’s Session"
+    }
   ],
   "number": 336,
   "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-336",
@@ -9,5 +314,8 @@
   "download_url": "https://api.soundcloud.com/tracks/360528863/download",
   "waveform_url": "https://w1.sndcdn.com/upkGNaw56ehM_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/360528863/stream",
-  "tracklist_url": "http://bit.ly/Show336TrackList"
+  "tracklist_url": "http://bit.ly/Show336TrackList",
+  "sessions": [
+    "Joe Kay’s Session"
+  ]
 }
