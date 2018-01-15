@@ -1,7 +1,420 @@
 {
-  "date": "2017-12-16",
+  "date": "2017-12-09",
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": "Braeden Bailey ",
+      "title": "fingerwork",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "L33 ",
+      "title": "Right Here Right Now",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "j.robb ",
+      "title": "lemonzzz",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "MR•CAR/\\\\ACK ",
+      "title": "MORE LEMONS, with Vindata",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Flying Lotus ",
+      "title": "Melt!",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "Timbaland and Magoo feat Shaunta Montgomery x Playa ",
+      "title": "Luv 2 Luv U (Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": "Lauryn Hill ",
+      "title": "Lost Ones",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "Jay-Z ",
+      "title": "La La La (Excuse Me Again)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Ray J ",
+      "title": "Wait a Minute ft. Lil' Kim",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "Cassie ",
+      "title": "Me & U",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Stwo ",
+      "title": "Liz",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Brandy & Monica ",
+      "title": "The Boy Is Mine",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "Lupe Fiasco ",
+      "title": "The Run Down",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "DMX ",
+      "title": "How's It Goin' Down (feat. Faith Evans)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Young Gunz ",
+      "title": "No Better Love (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Yesterday’s New Quintet Presents: Joe McDuphrey ",
+      "title": "Solar Waves",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "Eric Bellinger ",
+      "title": "In My Prime (feat. Phil Ade)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Tha Dogg Pound & Michel'le ",
+      "title": "Let's Play House",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "Ice Cube ",
+      "title": "You Know How We Do It",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "J Dilla ",
+      "title": "Dime Piece",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "Jill Scott ",
+      "title": "Love Rain",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "G Unit ",
+      "title": "Wanna Get To Know You (Jaël Edit)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Ja Rule & Ashanti ",
+      "title": "Down 4 You",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Flying Lotus ",
+      "title": "Made for Love (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Twizz ",
+      "title": "Rememberlude ft. PM",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Flying Lotus ",
+      "title": "Track 05",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "IAMNOBODI ",
+      "title": "One For Flying Lotus",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Sango & Waldo ",
+      "title": "YU",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Miguel ",
+      "title": "How Many Drinks?",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "T-Pain ",
+      "title": "Buy U a Drank (Shawty Snappin') [feat. Yung Joc]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "213 ",
+      "title": "I'm Fly ft. 213 ft. Snoop Dogg, Nate Dogg & Warren G",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Jay-Z Feat. Beanie Sigel & Scarface ",
+      "title": "Some How Some Way [clean]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "Total ",
+      "title": "Can't You See (feat. The Notorious B.I.G.)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Total feat Missy Elliott & Timbaland - What About Us [Beat Junkie Sound Edit]",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Ja Rule ",
+      "title": "Down Ass Bitch",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "Ashanti ",
+      "title": "Happy",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "Sam Gellaitry ",
+      "title": "life",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "sage nebulous ",
+      "title": "Tanzanaito Tsuki",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "Jordan Rakei ",
+      "title": "Add the Bassline",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "Richard Spaven ",
+      "title": "Zeebra III",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "Dimlite ",
+      "title": "Exact Fingerpointing",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "Robert Glasper ",
+      "title": "Dillalude #2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "Madvillain ",
+      "title": "3.214",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "Pheo ",
+      "title": "Go Get It",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "Bone Thugs-n-Harmony ",
+      "title": "Thuggish Ruggish Bone",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "Jacquees ",
+      "title": "B.E.D. (Remix) feat. Ty Dolla $ign & Quavo",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 47,
+      "artist": "Busta Rhymes ",
+      "title": "What's It Gonna Be?! (feat. Janet)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "Donell Jones ",
+      "title": "Natural Thang",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 49,
+      "artist": "Terror Squad ",
+      "title": "Take Me Home (Instrumental)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "B2K ",
+      "title": "Gots Ta Be",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Ahmed Sirour ",
+      "title": "FORePLAYING",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 52,
+      "artist": "PLANET GIZA - Planet Giza ",
+      "title": "My Heart",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 53,
+      "artist": "Madlib ",
+      "title": "Yo Yo Affair, Pts. 1 & 2",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 54,
+      "artist": "Chief ",
+      "title": "Music for a black berret",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 55,
+      "artist": "D'angelo ",
+      "title": "Feel Like Makin' Love",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 56,
+      "artist": "Blu ",
+      "title": "4U",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 57,
+      "artist": "Timbaland & Magoo ",
+      "title": "Beep Beep (feat. Missy Elliott)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 58,
+      "artist": "Lil Wayne ",
+      "title": "Mo Fire",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 59,
+      "artist": "Daedelus - Tailor",
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 60,
+      "artist": "Bone Thugs-n-Harmony ",
+      "title": "Tha Crossroads",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 61,
+      "artist": "Jack DeJohnette ",
+      "title": "Epilog",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 62,
+      "artist": "Jay Electronica ",
+      "title": "Dear Moleskine",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 63,
+      "artist": "KUTMAH ",
+      "title": "Madlib/Soul Music",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 64,
+      "artist": "FLYamSAM ",
+      "title": "The Offbeat",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 65,
+      "artist": "J Dilla ",
+      "title": "Untitled (Jay & Screwed)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 66,
+      "artist": "ravyn lenae ",
+      "title": "Blossom Dearie",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 67,
+      "artist": "Kyle Dixon & Michael Stein ",
+      "title": "Stranger Things",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 68,
+      "artist": "Flying Lotus ",
+      "title": "Aqua teen inst 24",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 69,
+      "artist": "Gonjasufi ",
+      "title": "Ancestors",
+      "session": "Joe Kay’s Session"
+    }
   ],
   "number": 339,
   "listen_url": "http://soundcloud.com/soulection/soulection-radio-show-339",
@@ -9,5 +422,8 @@
   "download_url": "https://api.soundcloud.com/tracks/370273076/download",
   "waveform_url": "https://w1.sndcdn.com/fi5Ep3Z9fWk2_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/370273076/stream",
-  "tracklist_url": "http://coming soon"
+  "tracklist_url": "http://bit.ly/Show339TrackList",
+  "sessions": [
+    "Joe Kay’s Session"
+  ]
 }

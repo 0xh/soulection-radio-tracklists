@@ -1,7 +1,312 @@
 {
-  "date": "2017-12-08",
+  "date": "2017-12-02",
   "tracks": [
-
+    {
+      "number": 1,
+      "artist": "Mr. Carmack ",
+      "title": "Just Wait Til Tomorrow",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 2,
+      "artist": "ROMderful. ",
+      "title": "interlude......",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 3,
+      "artist": "Evil Needle ",
+      "title": "Sunday Morning",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 4,
+      "artist": "Snoh Aalegra ",
+      "title": "All I Have (Intro)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 5,
+      "artist": "Flying Lotus ",
+      "title": "Tea Leaf Dancers",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 6,
+      "artist": "AbJo ",
+      "title": "Kalimba Song",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 7,
+      "artist": null,
+      "title": null,
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 8,
+      "artist": "6th Sense ",
+      "title": "C(omfortable)B4 (Bonus Track) [lil wayne]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 9,
+      "artist": "Tuamie ",
+      "title": "Eye contact",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 10,
+      "artist": "TUAMIE ",
+      "title": "High Eyes",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 11,
+      "artist": "Blu Cantrell ",
+      "title": "Breathe (Rap Version) [feat. Sean Paul]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 12,
+      "artist": "Duncan Gerow ",
+      "title": "Aaliyah + Ozzie = More Than A Woman",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 13,
+      "artist": "JAY Z ",
+      "title": "So Ambitious (feat. Pharrell Williams)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 14,
+      "artist": "AFTA-1 ",
+      "title": "Our Vision",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 15,
+      "artist": "Madlib ",
+      "title": "Stepping Into Tomorrow",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 16,
+      "artist": "Robert Glasper ",
+      "title": "F.T.B.",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 17,
+      "artist": "MXXWLL ",
+      "title": "Ocean Fresh",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 18,
+      "artist": "Xander Lewis ",
+      "title": "I'm Glad You're Here",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 19,
+      "artist": "K, Le Maestro ",
+      "title": "r u that somebody",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 20,
+      "artist": "Geode ",
+      "title": "Phi",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 21,
+      "artist": "ROM ",
+      "title": "Sneezing",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 22,
+      "artist": "Louby. ",
+      "title": "Quasi (low class conspiracy)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 23,
+      "artist": "Kelela ",
+      "title": "A Lie",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 24,
+      "artist": "Teebs ",
+      "title": "Piano Months [intro]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 25,
+      "artist": "Teebs ",
+      "title": "Just the Yellow Bits",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 26,
+      "artist": "Teebs ",
+      "title": "Yellow More New",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 27,
+      "artist": "AFTA-1 ",
+      "title": "Prelude To MeMeaningWE",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 28,
+      "artist": "Washed Out ",
+      "title": "Entrance [intro]",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 29,
+      "artist": "Naji ",
+      "title": "Might Just (ft. Krs. & Kingbnjmn)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 30,
+      "artist": "Snoh Aalegra ",
+      "title": "Out Of Your Way",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 31,
+      "artist": "Usher ",
+      "title": "Can U Handle It?",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 32,
+      "artist": "Jaël ",
+      "title": "Twilight Justice",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 33,
+      "artist": "Jordan_Robertson ",
+      "title": "Comet",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 34,
+      "artist": "Daniel Caesar ",
+      "title": "Hold Me Down",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 35,
+      "artist": "Mr. Carmack & Kaytranada ",
+      "title": "i cherish youse",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 36,
+      "artist": "♡ eddead ♡ ",
+      "title": "Flexin",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 37,
+      "artist": "Mac Ayres, Jack Dine, & Psalm ",
+      "title": "Something",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 38,
+      "artist": "Toro y Moi ",
+      "title": "High Living",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 39,
+      "artist": "Sonder ",
+      "title": "Slow Drag",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 40,
+      "artist": "10.4 ROG - Anderson .Paak ",
+      "title": "Am I Wrong (10.4 ROG Mix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 41,
+      "artist": "Bruce Loko ",
+      "title": "Celestial",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 42,
+      "artist": "Intomyears. ",
+      "title": "Tell nobody (Prod.Dekkapa)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 43,
+      "artist": "KB ",
+      "title": "El Musica",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 44,
+      "artist": "Brame & HAMO ",
+      "title": "Hotshot",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 45,
+      "artist": "Frits Wentink ",
+      "title": "Geese",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 46,
+      "artist": "Bruce Loko ",
+      "title": "Gypsum",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 47,
+      "artist": "Frits Wentink ",
+      "title": "Everybody Knows",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 48,
+      "artist": "Sean Munnick - Sean Munnick ",
+      "title": "Respect My Hustle",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 49,
+      "artist": "Crackazat ",
+      "title": "Seven Steps",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 50,
+      "artist": "Erykah Badu ",
+      "title": "Cleva (Mr Joseph Remix)",
+      "session": "Joe Kay’s Session"
+    },
+    {
+      "number": 51,
+      "artist": "Xander Lewis ",
+      "title": "Rose Petals",
+      "session": "Joe Kay’s Session"
+    }
   ],
   "number": 338,
   "listen_url": "http://soundcloud.com/soulection/show-338",
@@ -9,5 +314,8 @@
   "download_url": "https://api.soundcloud.com/tracks/366902120/download",
   "waveform_url": "https://w1.sndcdn.com/oRlkAW63geLI_m.png",
   "stream_url": "https://api.soundcloud.com/tracks/366902120/stream",
-  "tracklist_url": "http://coming soon"
+  "tracklist_url": "http://bit.ly/Show338TrackList",
+  "sessions": [
+    "Joe Kay’s Session"
+  ]
 }
